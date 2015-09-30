@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:0, donate paypal upstartcrash@gmail.com
+http://balkanstream.com/stream/fox/hospa042/f95de994
+
+
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK SD
 http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8 
 
