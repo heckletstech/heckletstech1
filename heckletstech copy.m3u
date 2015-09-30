@@ -274,6 +274,53 @@ http://ipsat.dvrdns.org:8000/live/jose7/gago7/496.m3u8
 http://ipsat.dvrdns.org:8000/live/jose7/gago7/495.m3u8
 
 
+#EXTINF:0, Fox 
+http://balkanstream.com/stream/fox/hospa042/f95de998 
+
+#EXTINF:0, Fox Movies 
+http://balkanstream.com/stream/foxmovies/hospa042/f95de998
+
+#EXTINF:0, Axn 
+http://balkanstream.com/stream/axn/hospa042/f95de998 
+
+#EXTINF:0, Fox Crime 
+http://balkanstream.com/stream/foxcrime/hospa042/f95de998 
+
+#EXTINF:0, Cinestar Action 
+http://balkanstream.com/stream/Cinestaraction/hospa042/f95de998 
+
+#EXTINF:0, Cinemax 
+http://balkanstream.com/stream/Cinemax/hospa042/f95de998 
+
+#EXTINF:0, Cinestar 
+http://balkanstream.com/stream/Cinestar/hospa042/f95de998 
+
+#EXTINF:0, SciFi 
+http://balkanstream.com/stream/scifi/hospa042/f95de998 
+
+#EXTINF:0, HBO Comedy 
+http://balkanstream.com/stream/hbocomedy/hospa042/f95de998 
+
+#EXTINF:0, HBO 
+http://balkanstream.com/stream/hboadria/hospa042/f95de998
+
+
+#EXTINF:0, Discovery ID 
+http://balkanstream.com/stream/discaveryID/hospa042/f95de998
+
+#EXTINF:0, ID extra 
+http://balkanstream.com/stream/ID-extra/hospa042/f95de998
+
+#EXTINF:0, MTV 
+http://balkanstream.com/stream/mtvadria/hospa042/f95de998 
+
+#EXTINF:0, History 
+http://balkanstream.com/stream/viasathistory/hospa042/f95de998 
+
+
+
+
+
 
 
 
