@@ -30,10 +30,6 @@ rtmpe://134.19.185.252:1935/livedge/mamahdsky4
 rtmpe://134.19.185.252:1935/livedge/mamahdsky5
 
 
-#EXTINF:-1, BT SPORT 1
-rtmpe://134.19.185.252:1935/livedge/mamahdbtsport1
-
-
 #EXTINF:-1, BEIN PREMIER
 http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
 
@@ -122,12 +118,6 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1, HBO 2
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
 
-#EXTINF:-1, BT SPORT 1
-http://s3.iptvapi.com:8081/BTSp1/index.m3u8
-
-
-#EXTINF:-1, BT Sport ESPN
-http://s3.iptvapi.com:8081/BTSespn/index.m3u8
 
 #EXTINF:0, History
 http://balkanstream.com/stream/history/hospa042/f95de998
