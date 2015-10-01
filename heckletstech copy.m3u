@@ -18,8 +18,8 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
 
 
-#EXTINF:-1, SKY SPORTS 2 (ALT)
-rtmpe://134.19.185.252:1935/livedge/mamahdsky2
+#EXTINF:-1, BIG TEN NETWORK HD (USA)
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
 
 INF:-1, SKY SPORTS 3 (ALT)
