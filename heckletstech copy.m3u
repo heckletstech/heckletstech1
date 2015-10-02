@@ -9,10 +9,6 @@ http://balkanstream.com/stream/fox/hospa042/f95de994
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/97.m3u8
 
 
-#EXTINF:-1, nat geo
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/96.m3u8
-
-
 #EXTINF:-1, Hot Rod Garage
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/95.m3u8
 
@@ -71,14 +67,6 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/81.m3u8
 
 #EXTINF:-1,nas car
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
-
-
-#EXTINF:-1,MLS Now
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/68.m3u8
-
-
-#EXTINF:-1, golf
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/67.m3u8
 
 
 #EXTINF:-1, nas car loop
