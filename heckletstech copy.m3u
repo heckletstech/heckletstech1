@@ -9,11 +9,6 @@ http://balkanstream.com/stream/fox/hospa042/f95de994
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK HD 1500k
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
 
-#EXTINF:-1, MLB TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/40.m3u8
-
-#EXTINF:-1, NBA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/149.m3u8
 
 
 #EXTINF:0, Eurosport  uk
