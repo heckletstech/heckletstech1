@@ -11,486 +11,986 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1
 
 
 
-#EXTINF:0, Eurosport  uk
-http://93.174.93.196/livepp/vesplsh/playlist.m3u8
-#EXTINF:0, Eurosport 2 uk
-http://195.154.226.186:1935/livepp/vesp2lsh/playlist.m3u8
-#EXTINF:0, SkySport 1
-http://195.154.226.186:1935/livepp/skysports1lsh/playlist.m3u8
-#EXTINF:0, SkySport2
-http://195.154.226.186:1935/livepp/skysports2lsh/playlist.m3u8
-#EXTINF:0, SkySport 3
-http://195.154.226.186:1935/livepp/skysports3lsh/playlist.m3u8
-#EXTINF:0, SkySport 4
-http://195.154.226.186:1935/livepp/skysports4lsh/playlist.m3u8
-#EXTINF:0, SkySport 5
-http://195.154.226.186:1935/livepp/skysports5lsh/playlist.m3u8
-#EXTINF:0, SkySport F1
-http://195.154.226.186:1935/livepp/vskysf1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 1
-http://195.154.226.186:1935/livepp/btsports1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 2
-http://195.154.226.186:1935/livepp/btsports2lsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 1 HD
-http://195.154.226.186:1935/livepp/bein1frlsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 2 HD
-http://195.154.226.186:1935/livepp/bein2frlsh/playlist.m3u8
-#EXTINF:0, ESPN UK
-http://195.154.226.186:1935/livepp/espnuklsh/playlist.m3u8
-#EXTINF:0,Premier sports
-http://195.154.226.186:1935/livepp/vpremsplsh/playlist.m3u8
+
+#EXTINF:-1,---------- SPORT ----------
+http://best-ul.mine.nu:8000/live/baki/baki/73.m3u8
+#EXTINF:-1,Supersport 1
+http://best-ul.mine.nu:8000/live/baki/baki/74.m3u8
+#EXTINF:-1,Supersport 2
+http://best-ul.mine.nu:8000/live/baki/baki/75.m3u8
+#EXTINF:-1,Supersport 3
+http://best-ul.mine.nu:8000/live/baki/baki/76.m3u8
+#EXTINF:-1,Supersport 4
+http://best-ul.mine.nu:8000/live/baki/baki/77.m3u8
+#EXTINF:-1,Super Sport Kosova 1
+http://best-ul.mine.nu:8000/live/baki/baki/241.m3u8
+#EXTINF:-1,Super Sport Kosova 2
+http://best-ul.mine.nu:8000/live/baki/baki/242.m3u8
+#EXTINF:-1,BeinSport 1 HD
+http://best-ul.mine.nu:8000/live/baki/baki/243.m3u8
+#EXTINF:-1,BeinSport 2 HD
+http://best-ul.mine.nu:8000/live/baki/baki/244.m3u8
+#EXTINF:-1,BeinSport 3 HD
+http://best-ul.mine.nu:8000/live/baki/baki/245.m3u8
+#EXTINF:-1,Arena Sport 1 Srb
+http://best-ul.mine.nu:8000/live/baki/baki/84.m3u8
+#EXTINF:-1,Arena Sport 2 Srb
+http://best-ul.mine.nu:8000/live/baki/baki/85.m3u8
+#EXTINF:-1,Arena Sport 3 Srb
+http://best-ul.mine.nu:8000/live/baki/baki/86.m3u8
+#EXTINF:-1,Arena Sport 4 Srb
+http://best-ul.mine.nu:8000/live/baki/baki/87.m3u8
+#EXTINF:-1,Arena Sport 5 Srb
+http://best-ul.mine.nu:8000/live/baki/baki/88.m3u8
+#EXTINF:-1,Arena Sporm3u8 1 HD Croatia
+http://best-ul.mine.nu:8000/live/baki/baki/89.m3u8
+#EXTINF:-1,Arena Sporm3u8 2 HD Croatia
+http://best-ul.mine.nu:8000/live/baki/baki/90.m3u8
+#EXTINF:-1,Arena Sporm3u8 3 HD Croatia
+http://best-ul.mine.nu:8000/live/baki/baki/91.m3u8
+#EXTINF:-1,Arena Sporm3u8 4 HD Croatia
+http://best-ul.mine.nu:8000/live/baki/baki/92.m3u8
+#EXTINF:-1,SporKlub 1 HD
+http://best-ul.mine.nu:8000/live/baki/baki/248.m3u8
+#EXTINF:-1,SportKlub 2 HD
+http://best-ul.mine.nu:8000/live/baki/baki/249.m3u8
+#EXTINF:-1,SportKlub 3 HD
+http://best-ul.mine.nu:8000/live/baki/baki/250.m3u8
+#EXTINF:-1,Sport Klub 1
+http://best-ul.mine.nu:8000/live/baki/baki/78.m3u8
+#EXTINF:-1,Sport Klub 2
+http://best-ul.mine.nu:8000/live/baki/baki/79.m3u8
+#EXTINF:-1,Sport Klub 3
+http://best-ul.mine.nu:8000/live/baki/baki/80.m3u8
+#EXTINF:-1,Sport Klub Golf
+http://best-ul.mine.nu:8000/live/baki/baki/81.m3u8
+#EXTINF:-1,Sky Bundesliga 1 HD DE
+http://best-ul.mine.nu:8000/live/baki/baki/141.m3u8
+#EXTINF:-1,Sky Sport 1 HD DE
+http://best-ul.mine.nu:8000/live/baki/baki/142.m3u8
+#EXTINF:-1,Sky Sport 2 HD DE
+http://best-ul.mine.nu:8000/live/baki/baki/143.m3u8
+#EXTINF:-1,EuroSport
+http://best-ul.mine.nu:8000/live/baki/baki/82.m3u8
+#EXTINF:-1,Eurosport  1 Cro
+http://best-ul.mine.nu:8000/live/baki/baki/108.m3u8
+#EXTINF:-1,EuroSport 2
+http://best-ul.mine.nu:8000/live/baki/baki/83.m3u8
+#EXTINF:-1,Eurosport 2 Cro
+http://best-ul.mine.nu:8000/live/baki/baki/109.m3u8
+#EXTINF:-1,C+ Deportes
+http://best-ul.mine.nu:8000/live/baki/baki/246.m3u8
+#EXTINF:-1,C+ Liga
+http://best-ul.mine.nu:8000/live/baki/baki/247.m3u8
+#EXTINF:-1,BT Sport 1
+http://best-ul.mine.nu:8000/live/baki/baki/206.m3u8
+#EXTINF:-1,BT Sport 2
+http://best-ul.mine.nu:8000/live/baki/baki/207.m3u8
+#EXTINF:-1,Sky Sport 1 UK
+http://best-ul.mine.nu:8000/live/baki/baki/221.m3u8
+#EXTINF:-1,Sky Sport 2 UK
+http://best-ul.mine.nu:8000/live/baki/baki/222.m3u8
+#EXTINF:-1,Sky Sport 3 UK
+http://best-ul.mine.nu:8000/live/baki/baki/223.m3u8
+#EXTINF:-1,Sky Sport 4 UK
+http://best-ul.mine.nu:8000/live/baki/baki/224.m3u8
+#EXTINF:-1,Sky Sport 5 UK
+http://best-ul.mine.nu:8000/live/baki/baki/225.m3u8
+#EXTINF:-1,Sky Sport F1 Uk
+http://best-ul.mine.nu:8000/live/baki/baki/226.m3u8
+#EXTINF:-1,---------- EX-YU ----------
+http://best-ul.mine.nu:8000/live/baki/baki/93.m3u8
+#EXTINF:-1,B 92
+http://best-ul.mine.nu:8000/live/baki/baki/94.m3u8
+#EXTINF:-1,OBN
+http://best-ul.mine.nu:8000/live/baki/baki/132.m3u8
+#EXTINF:-1,Prva Plus
+http://best-ul.mine.nu:8000/live/baki/baki/133.m3u8
+#EXTINF:-1,Prva Tv
+http://best-ul.mine.nu:8000/live/baki/baki/134.m3u8
+#EXTINF:-1,NOVA RS
+http://best-ul.mine.nu:8000/live/baki/baki/130.m3u8
+#EXTINF:-1,Nova Tv
+http://best-ul.mine.nu:8000/live/baki/baki/131.m3u8
+#EXTINF:-1,DM Sat
+http://best-ul.mine.nu:8000/live/baki/baki/105.m3u8
+#EXTINF:-1,BHT 1
+http://best-ul.mine.nu:8000/live/baki/baki/95.m3u8
+#EXTINF:-1,BN Music
+http://best-ul.mine.nu:8000/live/baki/baki/96.m3u8
+#EXTINF:-1,BN Sat
+http://best-ul.mine.nu:8000/live/baki/baki/97.m3u8
+#EXTINF:-1,Aljazaera Balkan
+http://best-ul.mine.nu:8000/live/baki/baki/181.m3u8
+#EXTINF:-1,Doma tv
+http://best-ul.mine.nu:8000/live/baki/baki/106.m3u8
+#EXTINF:-1,Cinemax 1
+http://best-ul.mine.nu:8000/live/baki/baki/98.m3u8
+#EXTINF:-1,Cinemax 2
+http://best-ul.mine.nu:8000/live/baki/baki/99.m3u8
+#EXTINF:-1,Cinestar Premiere 1
+http://best-ul.mine.nu:8000/live/baki/baki/101.m3u8
+#EXTINF:-1,Cinestar Premiere 2
+http://best-ul.mine.nu:8000/live/baki/baki/102.m3u8
+#EXTINF:-1,24 Kitchen
+http://best-ul.mine.nu:8000/live/baki/baki/71.m3u8
+#EXTINF:-1,Entertainment
+http://best-ul.mine.nu:8000/live/baki/baki/107.m3u8
+#EXTINF:-1,Fox Crime
+http://best-ul.mine.nu:8000/live/baki/baki/110.m3u8
+#EXTINF:-1,Fox Life
+http://best-ul.mine.nu:8000/live/baki/baki/111.m3u8
+#EXTINF:-1,Fox Movies
+http://best-ul.mine.nu:8000/live/baki/baki/112.m3u8
+#EXTINF:-1,Fox TV
+http://best-ul.mine.nu:8000/live/baki/baki/113.m3u8
+#EXTINF:-1,Grand TV
+http://best-ul.mine.nu:8000/live/baki/baki/115.m3u8
+#EXTINF:-1,Happy Tv
+http://best-ul.mine.nu:8000/live/baki/baki/116.m3u8
+#EXTINF:-1,Hayat BIH
+http://best-ul.mine.nu:8000/live/baki/baki/117.m3u8
+#EXTINF:-1,Hayat Plus
+http://best-ul.mine.nu:8000/live/baki/baki/118.m3u8
+#EXTINF:-1,Hayatovci
+http://best-ul.mine.nu:8000/live/baki/baki/119.m3u8
+#EXTINF:-1,HBO Adria
+http://best-ul.mine.nu:8000/live/baki/baki/120.m3u8
+#EXTINF:-1,HBO Comedy
+http://best-ul.mine.nu:8000/live/baki/baki/121.m3u8
+#EXTINF:-1,HRT 1
+http://best-ul.mine.nu:8000/live/baki/baki/123.m3u8
+#EXTINF:-1,HRT 2
+http://best-ul.mine.nu:8000/live/baki/baki/124.m3u8
+#EXTINF:-1,Klasik TV
+http://best-ul.mine.nu:8000/live/baki/baki/125.m3u8
+#EXTINF:-1,Lov i Ribolov
+http://best-ul.mine.nu:8000/live/baki/baki/126.m3u8
+#EXTINF:-1,Mini Ulta Tv
+http://best-ul.mine.nu:8000/live/baki/baki/182.m3u8
+#EXTINF:-1,Mtv 1
+http://best-ul.mine.nu:8000/live/baki/baki/63.m3u8
+#EXTINF:-1,Mtv 2
+http://best-ul.mine.nu:8000/live/baki/baki/64.m3u8
+#EXTINF:-1,N1 Bosna
+http://best-ul.mine.nu:8000/live/baki/baki/127.m3u8
+#EXTINF:-1,RTL Kockica
+http://best-ul.mine.nu:8000/live/baki/baki/136.m3u8
+#EXTINF:-1,RTL Televizija
+http://best-ul.mine.nu:8000/live/baki/baki/137.m3u8
+#EXTINF:-1,Rm3u8 1
+http://best-ul.mine.nu:8000/live/baki/baki/138.m3u8
+#EXTINF:-1,Rm3u8 1 HD
+http://best-ul.mine.nu:8000/live/baki/baki/139.m3u8
+#EXTINF:-1,Rm3u8 2
+http://best-ul.mine.nu:8000/live/baki/baki/140.m3u8
+#EXTINF:-1,Ultra Tv
+http://best-ul.mine.nu:8000/live/baki/baki/146.m3u8
+#EXTINF:-1,Animal Planet
+http://best-ul.mine.nu:8000/live/baki/baki/100.m3u8
+#EXTINF:-1,Travel HD Srb
+http://best-ul.mine.nu:8000/live/baki/baki/144.m3u8
+#EXTINF:-1,History Channel
+http://best-ul.mine.nu:8000/live/baki/baki/122.m3u8
+#EXTINF:-1,Discovery Channel
+http://best-ul.mine.nu:8000/live/baki/baki/103.m3u8
+#EXTINF:-1,Discovery Investigation
+http://best-ul.mine.nu:8000/live/baki/baki/54.m3u8
+#EXTINF:-1,Nat Geo Channel
+http://best-ul.mine.nu:8000/live/baki/baki/128.m3u8
+#EXTINF:-1,Nickelodeon
+http://best-ul.mine.nu:8000/live/baki/baki/129.m3u8
+#EXTINF:-1,Pink 1
+http://best-ul.mine.nu:8000/live/baki/baki/147.m3u8
+#EXTINF:-1,Pink 2
+http://best-ul.mine.nu:8000/live/baki/baki/148.m3u8
+#EXTINF:-1,Pink 3
+http://best-ul.mine.nu:8000/live/baki/baki/149.m3u8
+#EXTINF:-1,Pink Action
+http://best-ul.mine.nu:8000/live/baki/baki/150.m3u8
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://best-ul.mine.nu:8000/live/baki/baki/151.m3u8
+#EXTINF:-1,Pink Bh
+http://best-ul.mine.nu:8000/live/baki/baki/153.m3u8
+#EXTINF:-1,Pink Comedy
+http://best-ul.mine.nu:8000/live/baki/baki/154.m3u8
+#EXTINF:-1,NICKELODEON HD (DE)
+http://best-ul.mine.nu:8000/live/baki/baki/156.m3u8
+#EXTINF:-1,Pink Film
+http://best-ul.mine.nu:8000/live/baki/baki/158.m3u8
+#EXTINF:-1,Pink Folk 1
+http://best-ul.mine.nu:8000/live/baki/baki/159.m3u8
+#EXTINF:-1,Pink Horror
+http://best-ul.mine.nu:8000/live/baki/baki/161.m3u8
+#EXTINF:-1,Pink Kids
+http://best-ul.mine.nu:8000/live/baki/baki/162.m3u8
+#EXTINF:-1,Pink Live
+http://best-ul.mine.nu:8000/live/baki/baki/163.m3u8
+#EXTINF:-1,Pink M
+http://best-ul.mine.nu:8000/live/baki/baki/164.m3u8
+#EXTINF:-1,Pink Crime & Mistery
+http://best-ul.mine.nu:8000/live/baki/baki/165.m3u8
+#EXTINF:-1,Pink Movies 2
+http://best-ul.mine.nu:8000/live/baki/baki/166.m3u8
+#EXTINF:-1,Pink Pedia
+http://best-ul.mine.nu:8000/live/baki/baki/174.m3u8
+#EXTINF:-1,Pink Premium
+http://best-ul.mine.nu:8000/live/baki/baki/175.m3u8
+#EXTINF:-1,Pink Soap
+http://best-ul.mine.nu:8000/live/baki/baki/178.m3u8
+#EXTINF:-1,Pink World
+http://best-ul.mine.nu:8000/live/baki/baki/179.m3u8
+#EXTINF:-1,Pink Zabava
+http://best-ul.mine.nu:8000/live/baki/baki/180.m3u8
+#EXTINF:-1,---------- SKY DEUTCHLAND ----------
+http://best-ul.mine.nu:8000/live/baki/baki/183.m3u8
+#EXTINF:-1,Srf 1
+http://best-ul.mine.nu:8000/live/baki/baki/254.m3u8
+#EXTINF:-1,Srf 2
+http://best-ul.mine.nu:8000/live/baki/baki/255.m3u8
+#EXTINF:-1,ORF 1
+http://best-ul.mine.nu:8000/live/baki/baki/157.m3u8
+#EXTINF:-1,ORF 2
+http://best-ul.mine.nu:8000/live/baki/baki/176.m3u8
+#EXTINF:-1,Sky Action
+http://best-ul.mine.nu:8000/live/baki/baki/191.m3u8
+#EXTINF:-1,Sky Atlantic
+http://best-ul.mine.nu:8000/live/baki/baki/192.m3u8
+#EXTINF:-1,Sky Cinema
+http://best-ul.mine.nu:8000/live/baki/baki/193.m3u8
+#EXTINF:-1,Sky Cinema  1
+http://best-ul.mine.nu:8000/live/baki/baki/194.m3u8
+#EXTINF:-1,Sky Cinema  24
+http://best-ul.mine.nu:8000/live/baki/baki/195.m3u8
+#EXTINF:-1,Sky Comedy
+http://best-ul.mine.nu:8000/live/baki/baki/196.m3u8
+#EXTINF:-1,Sky Emotion
+http://best-ul.mine.nu:8000/live/baki/baki/197.m3u8
+#EXTINF:-1,ARD
+http://best-ul.mine.nu:8000/live/baki/baki/185.m3u8
+#EXTINF:-1,ZDF
+http://best-ul.mine.nu:8000/live/baki/baki/184.m3u8
+#EXTINF:-1,PRO7
+http://best-ul.mine.nu:8000/live/baki/baki/186.m3u8
+#EXTINF:-1,RTL 2
+http://best-ul.mine.nu:8000/live/baki/baki/135.m3u8
+#EXTINF:-1,RTL 2 Deum3u8chland
+http://best-ul.mine.nu:8000/live/baki/baki/187.m3u8
+#EXTINF:-1,RTL Deutchland
+http://best-ul.mine.nu:8000/live/baki/baki/188.m3u8
+#EXTINF:-1,SAT 1
+http://best-ul.mine.nu:8000/live/baki/baki/189.m3u8
+#EXTINF:-1,VH1
+http://best-ul.mine.nu:8000/live/baki/baki/198.m3u8
+#EXTINF:-1,National GeographicWILD
+http://best-ul.mine.nu:8000/live/baki/baki/160.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD DE
+http://best-ul.mine.nu:8000/live/baki/baki/152.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL HD (DE)
+http://best-ul.mine.nu:8000/live/baki/baki/155.m3u8
+#EXTINF:-1,---------- SKY UK ----------
+http://best-ul.mine.nu:8000/live/baki/baki/200.m3u8
+#EXTINF:-1,BBC 1
+http://best-ul.mine.nu:8000/live/baki/baki/201.m3u8
+#EXTINF:-1,BBC 2
+http://best-ul.mine.nu:8000/live/baki/baki/202.m3u8
+#EXTINF:-1,BBC 3
+http://best-ul.mine.nu:8000/live/baki/baki/203.m3u8
+#EXTINF:-1,BBC 4
+http://best-ul.mine.nu:8000/live/baki/baki/204.m3u8
+#EXTINF:-1,Box Nation
+http://best-ul.mine.nu:8000/live/baki/baki/205.m3u8
+#EXTINF:-1,Food
+http://best-ul.mine.nu:8000/live/baki/baki/208.m3u8
+#EXTINF:-1,ITV 1
+http://best-ul.mine.nu:8000/live/baki/baki/209.m3u8
+#EXTINF:-1,ITV 2
+http://best-ul.mine.nu:8000/live/baki/baki/210.m3u8
+#EXTINF:-1,ITV 3
+http://best-ul.mine.nu:8000/live/baki/baki/211.m3u8
+#EXTINF:-1,Sky Action UK
+http://best-ul.mine.nu:8000/live/baki/baki/212.m3u8
+#EXTINF:-1,Sky Comedy UK
+http://best-ul.mine.nu:8000/live/baki/baki/213.m3u8
+#EXTINF:-1,Sky Drama UK
+http://best-ul.mine.nu:8000/live/baki/baki/214.m3u8
+#EXTINF:-1,Sky Family UK
+http://best-ul.mine.nu:8000/live/baki/baki/215.m3u8
+#EXTINF:-1,Sky Modern Great UK
+http://best-ul.mine.nu:8000/live/baki/baki/216.m3u8
+#EXTINF:-1,Sky Movies Premiere
+http://best-ul.mine.nu:8000/live/baki/baki/217.m3u8
+#EXTINF:-1,Sky One
+http://best-ul.mine.nu:8000/live/baki/baki/218.m3u8
+#EXTINF:-1,Sky SciFi / Horror UK
+http://best-ul.mine.nu:8000/live/baki/baki/219.m3u8
+#EXTINF:-1,Sky Select
+http://best-ul.mine.nu:8000/live/baki/baki/220.m3u8
+#EXTINF:-1,Sky Thriler
+http://best-ul.mine.nu:8000/live/baki/baki/227.m3u8
+#EXTINF:-1,---------- TURKEY ----------
+http://best-ul.mine.nu:8000/live/baki/baki/228.m3u8
+#EXTINF:-1,Fox TV Turk
+http://best-ul.mine.nu:8000/live/baki/baki/114.m3u8
+#EXTINF:-1,Star Tv
+http://best-ul.mine.nu:8000/live/baki/baki/234.m3u8
+#EXTINF:-1,ATV
+http://best-ul.mine.nu:8000/live/baki/baki/230.m3u8
+#EXTINF:-1,Kanal 7 HD
+http://best-ul.mine.nu:8000/live/baki/baki/231.m3u8
+#EXTINF:-1,Kanal D HD
+http://best-ul.mine.nu:8000/live/baki/baki/235.m3u8
+#EXTINF:-1,Lig Tv HD
+http://best-ul.mine.nu:8000/live/baki/baki/229.m3u8
+#EXTINF:-1,Samanyolu TV
+http://best-ul.mine.nu:8000/live/baki/baki/232.m3u8
+#EXTINF:-1,Show Tv
+http://best-ul.mine.nu:8000/live/baki/baki/233.m3u8
+#EXTINF:-1,TRT 1 HD
+http://best-ul.mine.nu:8000/live/baki/baki/236.m3u8
+#EXTINF:-1,TRT HD
+http://best-ul.mine.nu:8000/live/baki/baki/237.m3u8
+#EXTINF:-1,TV 8
+http://best-ul.mine.nu:8000/live/baki/baki/238.m3u8
+#EXTINF:-1,####SKY_ITALIA####
+http://best-ul.mine.nu:8000/live/baki/baki/300.m3u8
+#EXTINF:-1,IT: SKYIT Uno Hd
+http://best-ul.mine.nu:8000/live/baki/baki/301.m3u8
+#EXTINF:-1,IT: SKYIT Fox HD
+http://best-ul.mine.nu:8000/live/baki/baki/302.m3u8
+#EXTINF:-1,IT: SKYIT Fox Crime
+http://best-ul.mine.nu:8000/live/baki/baki/303.m3u8
+#EXTINF:-1,IT: SKYIT DMAX
+http://best-ul.mine.nu:8000/live/baki/baki/304.m3u8
+#EXTINF:-1,IT: SKYIT Cinema Passion HD
+http://best-ul.mine.nu:8000/live/baki/baki/305.m3u8
+#EXTINF:-1,IT: SKYIT Cinema Max HD
+http://best-ul.mine.nu:8000/live/baki/baki/306.m3u8
+#EXTINF:-1,IT: SKYIT Cinema Max  1 HD
+http://best-ul.mine.nu:8000/live/baki/baki/307.m3u8
+#EXTINF:-1,IT: SKYIT Cinema Him3u8 HD
+http://best-ul.mine.nu:8000/live/baki/baki/308.m3u8
+#EXTINF:-1,IT: SKYIT Cinema HD
+http://best-ul.mine.nu:8000/live/baki/baki/309.m3u8
+#EXTINF:-1,IT: SKYIT Cinema Cult HD
+http://best-ul.mine.nu:8000/live/baki/baki/310.m3u8
+#EXTINF:-1,IT: SKYIT Cinema Comedy HD
+http://best-ul.mine.nu:8000/live/baki/baki/311.m3u8
+#EXTINF:-1,IT: SKYIT Cinema Classic HD
+http://best-ul.mine.nu:8000/live/baki/baki/312.m3u8
+#EXTINF:-1,IT: SKYIT Cinema 1
+http://best-ul.mine.nu:8000/live/baki/baki/313.m3u8
+#EXTINF:-1,IT: SKYIT Cinema  24
+http://best-ul.mine.nu:8000/live/baki/baki/314.m3u8
+#EXTINF:-1,IT: SKYIT Cielo
+http://best-ul.mine.nu:8000/live/baki/baki/315.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://best-ul.mine.nu:8000/live/baki/baki/284.m3u8
+#EXTINF:-1,Premium Sport HD
+http://best-ul.mine.nu:8000/live/baki/baki/289.m3u8
+#EXTINF:-1,Premium Prima LA7
+http://best-ul.mine.nu:8000/live/baki/baki/285.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://best-ul.mine.nu:8000/live/baki/baki/286.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://best-ul.mine.nu:8000/live/baki/baki/287.m3u8
+#EXTINF:-1,Premium Cinema   24
+http://best-ul.mine.nu:8000/live/baki/baki/276.m3u8
+#EXTINF:-1,IT: SKYIT Atlantic
+http://best-ul.mine.nu:8000/live/baki/baki/316.m3u8
+#EXTINF:-1,IT: SKYIT  TG24
+http://best-ul.mine.nu:8000/live/baki/baki/317.m3u8
+#EXTINF:-1,IT: Rai Sport 1
+http://best-ul.mine.nu:8000/live/baki/baki/297.m3u8
+#EXTINF:-1,IT: Premium Mya
+http://best-ul.mine.nu:8000/live/baki/baki/277.m3u8
+#EXTINF:-1,IT: Premium Joy
+http://best-ul.mine.nu:8000/live/baki/baki/278.m3u8
+#EXTINF:-1,IT: Premium Energy
+http://best-ul.mine.nu:8000/live/baki/baki/279.m3u8
+#EXTINF:-1,IT: PREMIUM EMOTION
+http://best-ul.mine.nu:8000/live/baki/baki/280.m3u8
+#EXTINF:-1,IT: Premium Crime
+http://best-ul.mine.nu:8000/live/baki/baki/281.m3u8
+#EXTINF:-1,IT: PREMIUM COMEDY
+http://best-ul.mine.nu:8000/live/baki/baki/282.m3u8
+#EXTINF:-1,IT: PREMIUM CINEMA
+http://best-ul.mine.nu:8000/live/baki/baki/283.m3u8
+#EXTINF:-1,PRIMAFILA 1
+http://best-ul.mine.nu:8000/live/baki/baki/319.m3u8
+#EXTINF:-1,PRIMAFILA 2
+http://best-ul.mine.nu:8000/live/baki/baki/320.m3u8
+#EXTINF:-1,PRIMAFILA 3
+http://best-ul.mine.nu:8000/live/baki/baki/321.m3u8
+#EXTINF:-1,PRIMAFILA 4
+http://best-ul.mine.nu:8000/live/baki/baki/322.m3u8
+#EXTINF:-1,PRIMAFILA 5
+http://best-ul.mine.nu:8000/live/baki/baki/323.m3u8
+#EXTINF:-1,PRIMAFILA 6
+http://best-ul.mine.nu:8000/live/baki/baki/324.m3u8
+#EXTINF:-1,PRIMAFILA 7
+http://best-ul.mine.nu:8000/live/baki/baki/325.m3u8
+#EXTINF:-1,PRIMAFILA 8
+http://best-ul.mine.nu:8000/live/baki/baki/326.m3u8
+#EXTINF:-1,PRIMAFILA 9
+http://best-ul.mine.nu:8000/live/baki/baki/327.m3u8
+#EXTINF:-1,PRIMAFILA 10
+http://best-ul.mine.nu:8000/live/baki/baki/328.m3u8
+#EXTINF:-1,PRIMAFILA 12
+http://best-ul.mine.nu:8000/live/baki/baki/329.m3u8
+#EXTINF:-1,PRIMAFILA 13
+http://best-ul.mine.nu:8000/live/baki/baki/330.m3u8
+#EXTINF:-1,PRIMAFILA 15
+http://best-ul.mine.nu:8000/live/baki/baki/331.m3u8
+#EXTINF:-1,PRIMAFILA 17
+http://best-ul.mine.nu:8000/live/baki/baki/332.m3u8
+#EXTINF:-1,PRIMAFILA 19
+http://best-ul.mine.nu:8000/live/baki/baki/333.m3u8
+#EXTINF:-1,####SKY_ITALIA_SPORT####
+http://best-ul.mine.nu:8000/live/baki/baki/334.m3u8
+#EXTINF:-1,SKY Calcio 1 HD
+http://best-ul.mine.nu:8000/live/baki/baki/336.m3u8
+#EXTINF:-1,SKY Calcio 2 HD
+http://best-ul.mine.nu:8000/live/baki/baki/337.m3u8
+#EXTINF:-1,SKY Calcio 3 HD
+http://best-ul.mine.nu:8000/live/baki/baki/338.m3u8
+#EXTINF:-1,SKY Sport 1 HD
+http://best-ul.mine.nu:8000/live/baki/baki/339.m3u8
+#EXTINF:-1,SKY Sport 3 HD
+http://best-ul.mine.nu:8000/live/baki/baki/341.m3u8
+#EXTINF:-1,SKY Supercalcio HD
+http://best-ul.mine.nu:8000/live/baki/baki/335.m3u8
+#EXTINF:-1,SKY Sport PLus HD
+http://best-ul.mine.nu:8000/live/baki/baki/343.m3u8
+#EXTINF:-1,SKY Sport 24 HD
+http://best-ul.mine.nu:8000/live/baki/baki/342.m3u8
+#EXTINF:-1,SKY Sport 2 HD
+http://best-ul.mine.nu:8000/live/baki/baki/340.m3u8
+#EXTINF:-1,Premium Calcio 7
+http://best-ul.mine.nu:8000/live/baki/baki/291.m3u8
+#EXTINF:-1,Premium Calcio 6
+http://best-ul.mine.nu:8000/live/baki/baki/292.m3u8
+#EXTINF:-1,Premium Calcio 5
+http://best-ul.mine.nu:8000/live/baki/baki/293.m3u8
+#EXTINF:-1,Premium Calcio 4
+http://best-ul.mine.nu:8000/live/baki/baki/294.m3u8
+#EXTINF:-1,Premium Calcio 3
+http://best-ul.mine.nu:8000/live/baki/baki/295.m3u8
+#EXTINF:-1,Premium Calcio 2
+http://best-ul.mine.nu:8000/live/baki/baki/296.m3u8
+#EXTINF:-1,Premium Calcio 1 HD
+http://best-ul.mine.nu:8000/live/baki/baki/290.m3u8
+#EXTINF:-1,Premium Action
+http://best-ul.mine.nu:8000/live/baki/baki/275.m3u8
+#EXTINF:-1,Milan Channel
+http://best-ul.mine.nu:8000/live/baki/baki/344.m3u8
+#EXTINF:-1,Inter Channel
+http://best-ul.mine.nu:8000/live/baki/baki/345.m3u8
+#EXTINF:-1,IT: Mediaset Premium Eurosport
+http://best-ul.mine.nu:8000/live/baki/baki/299.m3u8
+#EXTINF:-1,IT: Mediaset Premium Eurosport 2
+http://best-ul.mine.nu:8000/live/baki/baki/298.m3u8
 
 
-#EXTINF:0,Astro SuperSport 1
-http://185.63.252.176/live/antenasportucl1/playlist.m3u8
-#EXTINF:0,Astro SuperSport 2
-http://185.63.252.176/live/antenasportucl2/playlist.m3u8
-#EXTINF:0,Astro SuperSport 3
-http://185.63.252.176/live/antenasportucl3/playlist.m3u8
-#EXTINF:0,Astro SuperSport 4
-http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 
 
 
 
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Baby First TV
+http://www.osodelamuertes1.pcriot.com/test/osianuro.m3u8?web=forocable&canal=4882
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Baby TV
+http://rostelec.noip.me:1234/udp/233.7.70.188:5000
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] RT Documentary
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bloomberg TV UK
+http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bloomberg TV US
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] CNBC Africa
+http://brightcove03-f.akamaihd.net/CNBC_ANGLE1_3@176778?v=3.2.0&fp=WIN
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] CNBC World
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] RT International
+http://rt-a.akamaihd.net/ch_01@325605/480p.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] France 24
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_,828,528,264,.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Weather Channel
+http://www.osodelamuertes1.pcriot.com/test/osianuro.m3u8?web=forocable&canal=5289
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Weather Network
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Al Jazeera
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_eng_high
 
-
-
-
-
-#EXTINF:0,Arena Sport 1
-http://178.253.194.68:1935/liveloworigin/arenasport1.stream/tron45.m3u8
-#EXTINF:0,Arena Sport 2
-http://178.253.194.68:1935//liveloworigin/arenasport2.stream/tron45.m3u8
-#EXTINF:0,Arena Sport 3
-http://178.253.194.68:1935//liveloworigin/arenasport3.stream/tron45.m3u8
-#EXTINF:0,Arena Sport 4
-http://178.253.194.68:1935//liveloworigin/arenasport4.stream/tron45.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1, WOW Cinema
-http://bit.do/bmHVa
-#EXTINF:-1, 4 Seven
-http://bit.do/bmHTu
-#EXTINF:-1, 5 USA
-http://bit.do/bmHTK
-#EXTINF:-1, Alibi
-http://bit.do/bmHT7
-#EXTINF:-1, H2 USA
-http://bit.do/bmHUA
-#EXTINF:-1, Challenge
-http://bit.do/bmHUo
-#EXTINF:-1, Gold
-http://bit.do/bmHUx
-#EXTINF:-1, Multimedios Plus
-http://bit.do/bmHUD
-#EXTINF:-1, MultiPremier
-http://bit.do/bmHUJ
-#EXTINF:-1, NBC Miami
-http://bit.do/bmHUN
-#EXTINF:-1, Pick
-http://bit.do/bmHUS
-#EXTINF:-1, RTE ONE
-http://bit.do/bmHUW
-#EXTINF:-1, RTE TWO
-http://bit.do/bmHUZ
-#EXTINF:-1, Watch
-http://bit.do/bmHU9
-#EXTINF:-1, Tooncast
-http://bit.do/bmHTm
-#EXTINF:-1, Teen Nick
-http://bit.do/bmHTg
-#EXTINF:-1, 5 Star
-http://bit.do/bmHTC
-#EXTINF:-1, NICKELODEON
-http://bit.do/bmHS2
-#EXTINF:-1, CARTOON NETWORK
-http://alturl.com/p4ez4
-#EXTINF:-1, Disney Channel East
-http://bit.do/bmHSj
-#EXTINF:-1, Disney Channel West
-http://bit.do/bmHSA
-#EXTINF:-1, Disney Jr
-http://bit.do/bmHSB
-#EXTINF:-1, Disney XD
-http://bit.do/bmHSQ
-#EXTINF:-1, Nick Jr
-http://bit.do/bmHSW
-#EXTINF:-1, Discovery Family
-http://alturl.com/bdzbo
-#EXTINF:-1, Discovery Channel USA
-http://alturl.com/zxkwj
-#EXTINF:-1, DISCOVERY
-http://alturl.com/zktqz
-#EXTINF:-1, Crime + Investigation Network
-http://alturl.com/7t475
-#EXTINF:-1, Animal Planet
-http://alturl.com/rujxm
-#EXTINF:-1, TBS East
-http://alturl.com/6ua7n
-#EXTINF:-1, Spike TV
-http://alturl.com/2ignj
-#EXTINF:-1, Really
-http://alturl.com/oa4k4
-#EXTINF:-1, ITV Encore
-http://alturl.com/gp9tt
-#EXTINF:-1, ITV B
-http://alturl.com/4vwyy
-#EXTINF:-1, ION Television East
-http://alturl.com/4nd36
-#EXTINF:-1, IFC East
-http://alturl.com/t8ay5
-#EXTINF:-1, HIFI
-http://alturl.com/j85me
-#EXTINF:-1, Eden
-http://alturl.com/2au2j
-#EXTINF:-1, E4
-http://alturl.com/65wjk
-#EXTINF:-1, E! 2
-http://alturl.com/tmf8b
-#EXTINF:-1, E!
-http://alturl.com/83fir
-#EXTINF:-1, Drama
-http://alturl.com/hzxrq
-#EXTINF:-1, Dmax
-http://alturl.com/yiqnv
-#EXTINF:-1, TNT Drama
-http://alturl.com/zmt6n
-#EXTINF:-1, TNT America Latina
-http://alturl.com/4567c
-#EXTINF:-1, TNT Drama
-http://alturl.com/7yiqv
-#EXTINF:-1, TLC 2
-http://alturl.com/6vkts
-#EXTINF:-1, TLC
-http://alturl.com/6dzvp
-#EXTINF:-1, Lifetime East
-http://alturl.com/x4q4y
-#EXTINF:-1, FXX East
-http://alturl.com/rxgp6
-#EXTINF:-1, FX East
-http://alturl.com/o7xry
-#EXTINF:-1, FX
-http://alturl.com/um4m5
-#EXTINF:-1, FOX
-http://alturl.com/yr2sy
-#EXTINF:-1, A&E
-http://alturl.com/2ni6a
-#EXTINF:-1, ABC Family
-http://alturl.com/tx6hn
-#EXTINF:-1, Bravo East
-http://alturl.com/xmx5w
-#EXTINF:-1, CBS
-http://alturl.com/4h2r3
-#EXTINF:-1, CBS Reality
-http://alturl.com/eimnw
-#EXTINF:-1, StarMax
-http://bit.do/bmHBF
-#EXTINF:-1, AMC
-http://bit.do/bmHBQ
-#EXTINF:-1, Canal Sony
-http://bit.do/bmHB7
-#EXTINF:-1, Cine Dinamita
-http://bit.do/bmHCy
-#EXTINF:-1, CineCanal
-http://bit.do/bmHCz
-#EXTINF:-1, CineLatino
-http://bit.do/bmHCA
-#EXTINF:-1, Cinemax East
-http://bit.do/bmHCC
-#EXTINF:-1, Cinemax Latinoamerica
-http://bit.do/bmHCU
-#EXTINF:-1, CINEMAX MORE MAX
-http://alturl.com/bmf9m
-#EXTINF:-1, Cinemax West
-http://alturl.com/vp5o3
-#EXTINF:-1, Encore Action East
-http://alturl.com/j6gy5
-#EXTINF:-1, Fox 1 Este
-http://alturl.com/ox99g
-#EXTINF:-1, Fox Action Este
-http://alturl.com/rb3ar
-#EXTINF:-1, Fox Cinema
-http://alturl.com/bxbd7
-#EXTINF:-1, Fox Classics Latinoamerica
-http://alturl.com/3dbup
-#EXTINF:-1, Fox Movies Latinoamerica
-http://alturl.com/767b5
-#EXTINF:-1, HBO 2 East
-http://alturl.com/ynddr
-#EXTINF:-1, HBO 2 Latinoamerica
-http://alturl.com/96hf3
-#EXTINF:-1, HBO 2 West
-http://alturl.com/mgrii
-#EXTINF:-1, HBO Comedy East
-http://alturl.com/j2wpc
-#EXTINF:-1, HBO East
-http://alturl.com/fmzew
-#EXTINF:-1, HBO Family East
-http://alturl.com/zosjg
-#EXTINF:-1, HBO Family Latinoamerica
-http://alturl.com/ugvoc
-#EXTINF:-1, HBO Latinoamerica
-http://alturl.com/yijtk
-#EXTINF:-1, HBO Plus Este
-http://alturl.com/moemn
-#EXTINF:-1, HBO Signature East
-http://alturl.com/6zuo4
-#EXTINF:-1, MOVIES FUN
-http://alturl.com/o826x
-#EXTINF:-1, Showtime Next
-http://alturl.com/hfmzu
-#EXTINF:-1, SHOWTIME SHOWCASE
-http://alturl.com/jmhbr
-#EXTINF:-1, Showtime Showcase East
-http://alturl.com/cta9t
-#EXTINF:-1, SKY Atlantic
-http://alturl.com/fvzwg
-#EXTINF:-1, SKY Crime & Thriller
-http://alturl.com/3bxu5
-#EXTINF:-1, SKY Family
-http://alturl.com/pii4p
-#EXTINF:-1, SKY Modern Greats
-http://alturl.com/ifuyg
-#EXTINF:-1, Starz Comedy East
-http://alturl.com/9f9iw
-#EXTINF:-1, Starz East
-http://alturl.com/6b7jv
-#EXTINF:-1, STARZ ENCORE
-http://alturl.com/vftew
-#EXTINF:-1, SKY Sports F1
-http://alturl.com/vpmah
-#EXTINF:-1, SKY Sports 5
-http://alturl.com/zistr
-#EXTINF:-1, SKY Sports 4
-http://alturl.com/bpmt5
-#EXTINF:-1, SKY Sports 3
-http://alturl.com/potqg
-#EXTINF:-1, SKY Sports News
-http://alturl.com/yb4da
-#EXTINF:-1, Eurosport 1
-http://alturl.com/onahm
-#EXTINF:-1, Golf Channel
-http://alturl.com/id9ab
-#EXTINF:-1, Racing UK
-http://alturl.com/vb64q
-#EXTINF:-1, USA Network East
-http://alturl.com/63pr3
-#EXTINF:-1, The Movie Channel Xtra East
-http://alturl.com/ym7kq
-#EXTINF:-1, The Movie Channel East
-http://alturl.com/jfbar
-#EXTINF:-1, TCM US
-http://alturl.com/az5wm
-#EXTINF:-1, Starz West
-http://alturl.com/2z5o8
-#EXTINF:-1, Starz In Black East
-http://alturl.com/uviyb
-#EXTINF:-1, Starz Kids & Family East
-http://alturl.com/gzcdr
-#EXTINF:-1, SPORTSNET WORLD
-http://alturl.com/bfz48
-#EXTINF:-1, TSN 5
-http://alturl.com/9sqea
-#EXTINF:-1, TSN 3
-http://alturl.com/c9zhp
-#EXTINF:-1, TSN 2
-http://alturl.com/p2qgp
-#EXTINF:-1, TSN HD
-http://alturl.com/tivm8
-#EXTINF:-1, WWE NETWORK
-http://alturl.com/tugzy
-#EXTINF:-1, Yes Network
-http://alturl.com/7pxpb
-#EXTINF:-1, Bein Sport 4 HD MAX
-http://alturl.com/q7y8t
-#EXTINF:-1, Bein Sport 3 HD FR
-http://alturl.com/wrktf
-#EXTINF:-1, Bein Sport 2 HD FR
-http://alturl.com/2y8uk
-#EXTINF:-1, Bein Sport 1 HD FR
-http://alturl.com/2aafx
-#EXTINF:-1, BEIN SPORTS
-http://alturl.com/4dnzw
-#EXTINF:-1, BeinSports en Espnol
-http://alturl.com/wfgue
-#EXTINF:-1, Planeta Futbol
-http://alturl.com/c5gwj
-#EXTINF:-1, CTH X HD
-http://alturl.com/8kdz2
-#EXTINF:-1, SKY Sports 2
-http://alturl.com/sgnir
-#EXTINF:-1, SKY Sports 1
-http://alturl.com/e93kk
-#EXTINF:-1, BT Sport 2
-http://alturl.com/i9gja
-#EXTINF:-1, BT Sport 1
-http://alturl.com/pizzo
-#EXTINF:-1, Setanta Sports
-http://alturl.com/nrpx3
-#EXTINF:-1, CBS Sports Network
-http://alturl.com/yprwp
-#EXTINF:-1, ESPNews US
-http://alturl.com/t4kov
-#EXTINF:-1, ESPN 2 US
-http://alturl.com/qjzch
-#EXTINF:-1, ESPN US
-http://alturl.com/m5959
-#EXTINF:-1, ESPNU
-http://alturl.com/ard8v
-#EXTINF:-1, Fox Sports Florida
-http://alturl.com/tkgfc
-#EXTINF:-1, Fox Sports 2 US
-http://alturl.com/qafop
-#EXTINF:-1, Fox Sports 1 US
-http://alturl.com/k8ag6
-#EXTINF:-1, MLB Network
-http://alturl.com/xhhd7
-#EXTINF:-1, MSG
-http://alturl.com/m57so
-#EXTINF:-1, MUTV
-http://alturl.com/v2jst
-#EXTINF:-1, NBA TV
-http://alturl.com/mry3q
-#EXTINF:-1, NBC SPORTS
-http://alturl.com/36558
-#EXTINF:-1, NFL Network
-http://alturl.com/3oinv
-#EXTINF:-1, CTH 4 HD
-http://alturl.com/sgyc4
-#EXTINF:-1, CTH 5 HD
-http://alturl.com/7pprc
-#EXTINF:-1, CTH 2 HD
-http://alturl.com/hxmjc
-#EXTINF:-1, CTH 3 HD
-http://alturl.com/onr5t
-#EXTINF:-1, OTE Sport 2
-http://alturl.com/rnjeo
-#EXTINF:-1, CTH 1 HD
-http://alturl.com/k8pf5
-
-
-
-#EXTINF:0, Eurosport  uk
-http://93.174.93.196/livepp/vesplsh/playlist.m3u8
-#EXTINF:0, Eurosport 2 uk
-http://195.154.226.186:1935/livepp/vesp2lsh/playlist.m3u8
-#EXTINF:0, SkySport 1
-http://195.154.226.186:1935/livepp/skysports1lsh/playlist.m3u8
-#EXTINF:0, SkySport2
-http://195.154.226.186:1935/livepp/skysports2lsh/playlist.m3u8
-#EXTINF:0, SkySport 3
-http://195.154.226.186:1935/livepp/skysports3lsh/playlist.m3u8
-#EXTINF:0, SkySport 4
-http://195.154.226.186:1935/livepp/skysports4lsh/playlist.m3u8
-#EXTINF:0, SkySport 5
-http://195.154.226.186:1935/livepp/skysports5lsh/playlist.m3u8
-#EXTINF:0, SkySport F1
-http://195.154.226.186:1935/livepp/vskysf1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 1
-http://195.154.226.186:1935/livepp/btsports1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 2
-http://195.154.226.186:1935/livepp/btsports2lsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 1 HD
-http://195.154.226.186:1935/livepp/bein1frlsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 2 HD
-http://195.154.226.186:1935/livepp/bein2frlsh/playlist.m3u8
-#EXTINF:0, ESPN UK
-http://195.154.226.186:1935/livepp/espnuklsh/playlist.m3u8
-#EXTINF:0,Premier sports
-http://195.154.226.186:1935/livepp/vpremsplsh/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1, Discovery Family
-http://alturl.com/bdzbo
-#EXTINF:-1, Discovery Channel USA
-http://alturl.com/zxkwj
-#EXTINF:-1, DISCOVERY
-http://alturl.com/zktqz
-#EXTINF:-1, Crime + Investigation Network
-http://alturl.com/7t475
-#EXTINF:-1, Animal Planet
-http://alturl.com/rujxm
-
-
-#EXTINF:0,A1 INTERNACIONAL 
-http://server9.balkantvmedia.com:8080/A1?u=user80:p=3sMi6l66 
-#EXTINF:0,KABEL 1 
-http://server9.balkantvmedia.com:8080/Kabel1?u=user80:p=3sMi6l66 
-#EXTINF:0,ORF 1 
-http://server4.balkantvmedia.com:8080/ORF1?u=user80:p=3sMi6l66 
-#EXTINF:0,ORF 2 
-http://server9.balkantvmedia.com:8080/ORF2?u=user80:p=3sMi6l66 
-#EXTINF:0,PRO 7 
-http://server4.balkantvmedia.com:8080/ProSieben?u=user80:p=3sMi6l66 
-#EXTINF:0,RTL DE 
-http://server4.balkantvmedia.com:8080/RTL?u=user80:p=3sMi6l66 
-#EXTINF:0,RTL 2 DE 
-http://server4.balkantvmedia.com:8080/RTL2?u=user80:p=3sMi6l66 
-#EXTINF:0,SAT 1 
-http://server9.balkantvmedia.com:8080/SAT1?u=user80:p=3sMi6l66 
-#EXTINF:0,VOX 
-http://server9.balkantvmedia.com:8080/VOX?u=user80:p=3sMi6l66 
-#EXTINF:0,ZDF 
-http://server9.balkantvmedia.com:8080/ZDF?u=user80:p=3sMi6l66
-
-
-
-
-#EXTINF: -1, Az  Tv
-http://bak01-edge03.itdc.ge/aztv/index.m3u8 
-#EXTINF: -1, İdman Tv
-http://bak01-edge03.itdc.ge/idman/index.m3u8 
-#EXTINF: -1, Eurosport 
-http://bak01-edge03.itdc.ge/eurosport/index.m3u8 
-#EXTINF: -1, Xazar Tv
-http://bak01-edge03.itdc.ge/xazer/index.m3u8   
-#EXTINF: -1, İctimai 
-http://bak01-edge03.itdc.ge/ictimai/index.m3u8 
-#EXTINF: -1, Space Tv
-http://bak01-edge03.itdc.ge/space/index.m3u8 
-#EXTINF: -1, Lider Tv
-http://bak01-edge03.itdc.ge/lider/index.m3u8 
-#EXTINF: -1, ANS Tv
-http://bak01-edge03.itdc.ge/anstv/index.m3u8 
-#EXTINF: -1, TRT 1
-http://bak01-edge03.itdc.ge/trt1/index.m3u8 
-#EXTINF: -1, Atv
-http://bak01-edge03.itdc.ge/atvturk/index.m3u8 
-#EXTINF: -1, Fox Tv
-http://bak01-edge03.itdc.ge/foxturk/index.m3u8 
-#EXTINF: -1, Tv8 INT
-http://bak01-edge03.itdc.ge/tv8/index.m3u8 
-#EXTINF: -1, Euro Star Tv    
-http://bak01-edge03.itdc.ge/startv/index.m3u8 
-#EXTINF: -1, Show Tv
-http://bak01-edge4.itdc.ge/showtv.m3u8 
-#EXTINF: -1, Kanal 7
-http://bak01-edge03.itdc.ge/kanal7/index.m3u8 
-#EXTINF: -1, Kanal D
-http://bak01-edge03.itdc.ge/kanald/index.m3u8 
-#EXTINF: -1, Ntv
-http://bak01-edge03.itdc.ge/ntvtr/index.m3u8 
-#EXTINF: -1, Ntv spor
-http://bak01-edge03.itdc.ge/ntvspor/index.m3u8 
-#EXTINF: -1, Kral Tv
-http://bak01-edge03.itdc.ge/kral/index.m3u8 
-#EXTINF: -1, TRT Avaz
-http://bak01-edge03.itdc.ge/trtavaz/index.m3u8 
-#EXTINF: -1, Tmbru
-http://bak01-edge03.itdc.ge/tmbru/index.m3u8 
-#EXTINF: -1, Disney tv
-http://bak01-edge03.itdc.ge/disney/index.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Euronews
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/euronews_en/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Deutsche Welle
+http://metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] i24 news
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] CCTV News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cctv_news/ls_satlink/b_828.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] eNCA
+http://wpc.c1A9.edgecastcdn.net/hls-live/20C1A9/enca/ls_satlink/b_528.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Africa News Network
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Press TV
+rtmp://mtv.fms-01.visionip.tv/live/mtv-ptv-live-25f-16x9-SDh
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Arirang TV
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 4
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 5
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 6
+http://djing.com/tv/hothothot.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 7
+http://djing.com/tv/underground.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 8
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 9
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 10
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 11
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 12
+rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 13
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 14
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 15
+http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 16
+http://rtmp.one.by:1300/
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 17
+http://194.79.52.77/goldi/goldHQ2/index.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 18
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 19
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 20
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 21
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 22
+rtmp://stream.smcloud.net/live2/vox/vox_360p
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 23
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 24
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 25
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 26
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 27
+http://82.76.249.77/utvedge/utvmqlivehls/chunklist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 28
+http://rtmp.one.by:2300/
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 29
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Music Videos 30
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Simpsons
+http://iptvnation.com/simpsons.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] South Park
+http://iptvnation.com/southpark.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Family Guy
+http://iptvnation.com/familyguy.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bobs Burgers
+http://iptvnation.com/bobs.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Two and a Half Men
+http://iptvnation.com/two.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] How I met your mother
+http://iptvnation.com/how.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Big Bang Theory
+http://iptvnation.com/big.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Mentalist
+http://iptvnation.com/mentalist.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Arrow
+http://iptvnation.com/arrow.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Grimm
+http://iptvnation.com/grimm.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bones
+http://iptvnation.com/bones.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Criminal Minds
+http://iptvnation.com/criminal.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] CSI: Miami
+http://iptvnation.com/csimiami.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Golf Channel
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/GolfChannelUS/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  MSG
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/MSGUS/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 1
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 2
+http://hls.cn.ru/streaming/sport/16/tvrec/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 3
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 4
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 5
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 6
+http://pstv.krasmix.ru/tv/sport/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 7
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 8
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 9
+http://pvr.tvip.ga/0807.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 10
+http://87.248.160.8/edge/smil:boet/HasBahCa.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 11
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 12
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 13
+http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 14
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 15
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 16
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 17
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 18
+http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 19
+http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Sport 20
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,[COLOR lime]FTA[/COLOR]  Ultimate Events & Sports
+http://www.osodelamuertes1.pcriot.com/test/osianuro.m3u8?web=forocable&canal=6394
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - A Brilliant Young Mind
+http://iptvnation.com/30.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - All Creatures Big and Small
+http://iptvnation.com/31.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Aloha
+http://iptvnation.com/32.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Dark Places
+http://iptvnation.com/33.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Fifty Shades of Grey
+http://iptvnation.com/34.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Freetown
+http://iptvnation.com/35.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Mad Max Fury Road
+http://iptvnation.com/36.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Little Boy
+http://iptvnation.com/37.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - The Lazarus Effect
+http://iptvnation.com/38.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Mythica The Darkspore
+http://iptvnation.com/39.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Vendetta
+http://iptvnation.com/40.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Survivor
+http://iptvnation.com/41.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Where hope grows
+http://iptvnation.com/42.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Black Hat
+http://iptvnation.com/0.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Maggie
+http://iptvnation.com/1.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Big Hero 6
+http://iptvnation.com/2.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Careful what you wish for
+http://iptvnation.com/3.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Cinderella
+http://iptvnation.com/4.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Dead Rising Watchtower
+http://iptvnation.com/5.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Hot Tub Time Machine
+http://iptvnation.com/6.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Jupiter Ascending
+http://iptvnation.com/7.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - The Longest Ride
+http://iptvnation.com/8.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - True Story
+http://iptvnation.com/9.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - The Duff
+http://iptvnation.com/10.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - The Gunman
+http://iptvnation.com/11.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Woman in Gold
+http://iptvnation.com/12.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Pitch Perfect 2
+http://iptvnation.com/13.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - San Andreas Quake
+http://iptvnation.com/14.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Unfinished Business
+http://iptvnation.com/15.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Ex Machina
+http://iptvnation.com/16.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Paul Blart Mall
+http://iptvnation.com/17.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Shaun the Sheep Movie
+http://iptvnation.com/18.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Focus
+http://iptvnation.com/19.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Far from the Madding Crowd
+http://iptvnation.com/20.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Barely Lethal
+http://iptvnation.com/21.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Child 44
+http://iptvnation.com/22.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Furious Seven
+http://iptvnation.com/23.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Home sweet hell
+http://iptvnation.com/24.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Road Wars
+http://iptvnation.com/25.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - The Age of adaline
+http://iptvnation.com/26.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - The Wedding Ringer
+http://iptvnation.com/27.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Tracers
+http://iptvnation.com/28.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] PPV Movies - Last Knights
+http://iptvnation.com/29.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 1
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 2
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 3
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 4
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 5
+rtmp://teledifusion.tv/mijastv/mijastvlive
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 6
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 7
+http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 8
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 9
+rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 10
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 11
+rtmp://tvgirona.dnssw.net/live/Icontouch
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 12
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 13
+rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 14
+http://iphone-streaming.ustream.tv/uhls/14420271/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 15
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] España 16
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Paraguay 1
+rtmp://70.36.100.38:1935/live/canal13_hq.stream
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Paraguay 2
+rtsp://mobileservertv03.desdeparaguay.com/TV/paraguaytv
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Uruguay 1
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Guatemala 1
+http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Guatemala 2
+http://72.46.226.61/live01/canal31/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Guatemala 3
+http://iphone-streaming.ustream.tv/ustreamVideo/8376988/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Nicaragua 1
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Nicaragua 2
+http://cdn5.iviplanet.com:1935/TN8MBR/smil:tn8mbr.smil/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Nicaragua 3
+rtmp://162.244.81.181:1935/live/Stream1
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Nicaragua 4
+http://www.osodelamuertes1.pcriot.com/test/osianuro.m3u8?web=forocable&canal=2015
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Nicaragua 5
+http://72.46.226.61/live01/canal41/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 1
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 2
+http://stream01.cyberfuel.com/SinartCanal13/livestream/canaltrececostarica.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 3
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 4
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 5
+rtmp://k3.usastreams.com:1935/cana6/cana6
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 6
+rtmp://k3.usastreams.com:1935/canal9/canal9
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 7
+http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 8
+rtmp://k3.usastreams.com:1935/canal29/canal29
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 9
+rtmp://k3.usastreams.com:1935/tv33/tv33
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Costa Rica 10
+rtmp://k3.usastreams.com:1935/canal42/canal42
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Ecuador 1
+http://38.96.148.216:1935/live/canelatv/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Ecuador 2
+http://ecuadortv_livehd-lh.akamaihd.net/i/0n0xzqt3o_1@323283/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Ecuador 3
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Panama 1
+http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Panama 2
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Panama 3
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bolivia 1
+http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bolivia 2
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 1
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 2
+http://www.osodelamuertes1.pcriot.com/test/osianuro.m3u8?web=forocable&canal=5509
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 3
+http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 4
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 5
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 6
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 7
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 8
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 9
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Mexico 10
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] El Salvador 1
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] El Salvador 2
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] El Salvador 3
+rtmp://panel.elsalvadordigital.com:1935/canal23/canal23
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] El Salvador 4
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Honduras 1
+rtmp://m.aliasdns.info:8979/live/globotv
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Honduras 2
+http://72.46.226.61/live01/canal81/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Honduras 3
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Honduras 4
+rtmp://4.31.30.140:1935/live/mundotv
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Honduras 5
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Honduras 6
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 1
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 2
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 3
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 4
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8?
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 5
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 6
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 7
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 8
+rtmp://panelhdstream.com:1935/8022/8022
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 9
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Colombia 10
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 1
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 2
+rtmp://cast.streamingconnect.tv/vtvweb3/vtvweb3
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 3
+http://edge.wms28.lorini.net/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 4
+http://dvyd5g1fkvmtn.cloudfront.net/tvvenezuela/ngrp:live_PC/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 5
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 6
+rtmp://edge.wms28.lorini.net/canalonce/canalonce
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 7
+rtmp://cast.streamingconnect.tv:1935/pdvsatvweb/pdvsatvweb
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 8
+http://edge.wms28.lorini.net:1935/trttv/trttv/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 9
+http://edge.wms28.lorini.net/globaltv/globaltv/hasbahca.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Venezuela 10
+mmsh://difusion.cantv.net/vhost-covetel_live
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Chile 1
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Chile 2
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Chile 3
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Chile 4
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Chile 5
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Chile 6
+http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/livestream3/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Chile 7
+rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Chile 8
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Argentina 1
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Argentina 3
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Argentina 4
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Argentina 5
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Argentina 6
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Argentina 7
+rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Argentina 8
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Argentina 9
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 1
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 2
+http://live.soltvperu.com:1935/soltv/soltv/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 3
+rtmp://willax.mediastream.pe/vv_willax/livestream
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 4
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 5
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 6
+http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 7
+http://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 8
+rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 9
+http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Peru 10
+http://iphone-streaming.ustream.tv/uhls/17419715/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Dominican Republic 1
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 
 
 
