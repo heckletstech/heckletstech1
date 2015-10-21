@@ -12,519 +12,1053 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1
 
 
 
-#EXTINF:-1, ID
-http://alturl.com/5visi
-#EXTINF:-1, RTEjr
-http://alturl.com/3ushi
-#EXTINF:-1, RTE Two
-http://alturl.com/fvtgw
-#EXTINF:-1, Animal Planet
-http://alturl.com/o547z
-#EXTINF:-1, Discovery History
-http://alturl.com/b7kra
-#EXTINF:-1, Discovery Turbo
-http://alturl.com/dozqo
-#EXTINF:-1, CBS Reality+1 UK
-http://alturl.com/8ufbs
-#EXTINF:-1, DisneyChnl
-http://alturl.com/kzeg5
-#EXTINF:-1, Cartoon Network UK
-http://alturl.com/bjwff
-#EXTINF:-1, DisneyJunior
-http://alturl.com/f6bc8
-#EXTINF:-1, Discovery1
-http://alturl.com/rpnek
-#EXTINF:-1, Discovery Science
-http://alturl.com/r9mwz
-#EXTINF:-1, MUTV
-http://alturl.com/vid4r
-
-#EXTINF:-1,ID
-http://stream.balticbox.tv:8080/IDUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,RTE One
-http://stream.balticbox.tv:8080/RTE1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,RTE Two HD
-http://stream.balticbox.tv:8080/RTE2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,RTE Jr
-http://stream.balticbox.tv:8080/RTEJR/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,TV3
-http://stream.balticbox.tv:8080/TV3IRL/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,TG4
-http://stream.balticbox.tv:8080/TG4/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Rishtey
-http://stream.balticbox.tv:8080/3e/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Comedy Xtra
-http://stream.balticbox.tv:8080/CmdyXtr/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Disney Ch.
-http://stream.balticbox.tv:8080/Disney/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Animal Planet
-http://stream.balticbox.tv:8080/ANIUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Discovery History
-http://stream.balticbox.tv:8080/DISHist/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Disney Junior
-http://stream.balticbox.tv:8080/DIJR/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Cartoon Network
-http://stream.balticbox.tv:8080/CARUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Discovery +1
-http://stream.balticbox.tv:8080/DIS1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Discovery Science
-http://stream.balticbox.tv:8080/DISS/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Discovery Turbo
-http://stream.balticbox.tv:8080/DISTurbo/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Travel Channel +1
-http://stream.balticbox.tv:8080/TRAUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,CBS Reality+1
-http://stream.balticbox.tv:8080/CBSReality/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,TCM +1
-http://stream.balticbox.tv:8080/TCMUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Mov4men +1
-http://stream.balticbox.tv:8080/M4M/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Family
-http://stream.balticbox.tv:8080/SkyFamily/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Greats
-http://stream.balticbox.tv:8080/SkyGreats/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Thriller
-http://stream.balticbox.tv:8080/SkyCrime/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Comedy
-http://stream.balticbox.tv:8080/SkyComedy/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Premiere
-http://stream.balticbox.tv:8080/SkyPremiere/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Action
-http://stream.balticbox.tv:8080/SkyAction/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Select
-http://stream.balticbox.tv:8080/SkySelect/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky DramaRom
-http://stream.balticbox.tv:8080/SkyDrama/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky ScFiHorror
-http://stream.balticbox.tv:8080/SkySci/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Disney
-http://stream.balticbox.tv:8080/SkyDisney/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MUTV
-http://stream.balticbox.tv:8080/MUTV/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BT Sport EUROPE
-http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BT Sport ESPN
-http://stream.balticbox.tv:8080/BTSespn/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BT Sport 1
-http://stream.balticbox.tv:8080/BTSp1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BT Sport 2
-http://stream.balticbox.tv:8080/BTSp2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Premier Sports
-http://stream.balticbox.tv:8080/PRMSP/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Racing UK
-http://stream.balticbox.tv:8080/RACUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Setanta Ireland
-http://stream.balticbox.tv:8080/SETIRL/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports F1
-http://stream.balticbox.tv:8080/SkySPf1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports News
-http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 1
-http://stream.balticbox.tv:8080/SkySP1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 2
-http://stream.balticbox.tv:8080/SkySP2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 3
-http://stream.balticbox.tv:8080/SkySP3/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 4
-http://stream.balticbox.tv:8080/SkySP4/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 5
-http://stream.balticbox.tv:8080/SkySP5/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Brit. Eurosport
-http://stream.balticbox.tv:8080/EUUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Brit. Eurosport2
-http://stream.balticbox.tv:8080/EU2UK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Box Nation
-http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Chelsea TV
-http://stream.balticbox.tv:8080/Chls/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,LFC TV
-http://stream.balticbox.tv:8080/LFCTV/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,=======Arena Sporte=====
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/384.ts
+#EXTINF:-1,======Digi Alb=======
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/381.ts
+#EXTINF:-1,Sky Sport  1 UK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/477.ts
+#EXTINF:-1,Sport TV 4 HD (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1484.ts
+#EXTINF:-1,Sky Sport 1 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/842.ts
+#EXTINF:-1,RTK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1012.ts
+#EXTINF:-1,RTV 21
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/299.ts
+#EXTINF:-1,KTV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/295.ts
+#EXTINF:-1,Klan Kosova
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/682.ts
+#EXTINF:-1,TOP CHANNEL
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/305.ts
+#EXTINF:-1,VIZION PLUS
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1424.ts
+#EXTINF:-1,TV KLAN
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/293.ts
+#EXTINF:-1,TVSH
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/347.ts
+#EXTINF:-1,ALSAT M
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/279.ts
+#EXTINF:-1,Era TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/409.ts
+#EXTINF:-1,FILM AUTOR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/880.ts
+#EXTINF:-1,FILM AKSION
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/285.ts
+#EXTINF:-1,Film Nje HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/378.ts
+#EXTINF:-1,Film Dy HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/379.ts
+#EXTINF:-1,DIGI GOLD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/878.ts
+#EXTINF:-1,FILM THRILLER
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/292.ts
+#EXTINF:-1,Film Hits 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/715.ts
+#EXTINF:-1,FILM HITS
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/683.ts
+#EXTINF:-1,FILM KOMEDI
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/291.ts
+#EXTINF:-1,FILM DRAMA
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/287.ts
+#EXTINF:-1,T+ HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/707.ts
+#EXTINF:-1,Stinet
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/405.ts
+#EXTINF:-1,Jug Tv
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/399.ts
+#EXTINF:-1,Dasma TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1039.ts
+#EXTINF:-1,RRokum TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/414.ts
+#EXTINF:-1,Tring Max
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/369.ts
+#EXTINF:-1,Jolly HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/408.ts
+#EXTINF:-1,Tring Fantazi
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/373.ts
+#EXTINF:-1,Tring Super
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/365.ts
+#EXTINF:-1,Tring Shqip
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/366.ts
+#EXTINF:-1,Tring Comedy
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/879.ts
+#EXTINF:-1,Explorer History
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/708.ts
+#EXTINF:-1,EXP SHKENCE
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/360.ts
+#EXTINF:-1,Explorer Natyre
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/283.ts
+#EXTINF:-1,Tring World
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/363.ts
+#EXTINF:-1,Tring Planet
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/368.ts
+#EXTINF:-1,Agon
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/361.ts
+#EXTINF:-1,Top news
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/401.ts
+#EXTINF:-1,ABC NEWS
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/362.ts
+#EXTINF:-1,News 24
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/403.ts
+#EXTINF:-1,Ora News
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/402.ts
+#EXTINF:-1,A1 Raport
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/404.ts
+#EXTINF:-1,BANG BANG
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/280.ts
+#EXTINF:-1,Tring Tring
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/364.ts
+#EXTINF:-1,Cufo TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/411.ts
+#EXTINF:-1,Tring Junior
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/371.ts
+#EXTINF:-1,Tv Opoja
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1098.ts
+#EXTINF:-1,Zjarr Tv   TEST
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1099.ts
+#EXTINF:-1,Tv Koha (Tetov) TEST
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1097.ts
+#EXTINF:-1,Televizioni TVR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1351.ts
+#EXTINF:-1,Living HD (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1527.ts
+#EXTINF:-1,TV Dukagjini  (Test)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1046.ts
+#EXTINF:-1,Tribuna Channel  HD  (Test)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1346.ts
+#EXTINF:-1,Ballkan TV (Test)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1519.ts
+#EXTINF:-1,Mrt2 Sat    (Test)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1348.ts
+#EXTINF:-1,Arta Tv    (Test)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1349.ts
+#EXTINF:-1,Tring 3 Plus (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1075.ts
+#EXTINF:-1,Plus HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1421.ts
+#EXTINF:-1,Tring History
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/372.ts
+#EXTINF:-1,Folk +
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/412.ts
+#EXTINF:-1,3 Plus HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/458.ts
+#EXTINF:-1,Elrodi Music
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/470.ts
+#EXTINF:-1,BBF Music TV (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/745.ts
+#EXTINF:-1,Rtv 21 Popullore
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/376.ts
+#EXTINF:-1,Rtv 21 Plus
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/377.ts
+#EXTINF:-1,RTV 21 Mix
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1085.ts
+#EXTINF:-1,Folklorit
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/359.ts
+#EXTINF:-1,First
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/415.ts
+#EXTINF:-1,TV TIRANA
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/348.ts
+#EXTINF:-1,Super Folk
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/712.ts
+#EXTINF:-1,RTV Sharri
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/400.ts
+#EXTINF:-1,Tv MItrovica (TEST)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1495.ts
+#EXTINF:-1,Supersonic Tv
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/711.ts
+#EXTINF:-1,Tring Live
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/370.ts
+#EXTINF:-1,Tring Sport News  (TEST)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1518.ts
+#EXTINF:-1,Tring Sport 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1488.ts
+#EXTINF:-1,Tring Sport 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1489.ts
+#EXTINF:-1,Tring Sport 3 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1490.ts
+#EXTINF:-1,Tring Sport 4
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1491.ts
+#EXTINF:-1,Super Sport 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1431.ts
+#EXTINF:-1,Super Sport 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1546.ts
+#EXTINF:-1,Super Sport 3
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1433.ts
+#EXTINF:-1,Super Sport 4
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1434.ts
+#EXTINF:-1,Supersport Kosova 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/716.ts
+#EXTINF:-1,Supersport Kosova 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/717.ts
+#EXTINF:-1,TV Kosova   (Test)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1425.ts
+#EXTINF:-1,APOLLON
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1520.ts
+#EXTINF:-1,Click
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1521.ts
+#EXTINF:-1,CLUB FM / tring tv
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1522.ts
+#EXTINF:-1,Fox Life (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1525.ts
+#EXTINF:-1,Fox Crime (Albania)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1524.ts
+#EXTINF:-1,FOX  (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1523.ts
+#EXTINF:-1,Kanali 7 (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1526.ts
+#EXTINF:-1,Nat Geographic (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1529.ts
+#EXTINF:-1,MUSE (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1528.ts
+#EXTINF:-1,TIP TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1533.ts
+#EXTINF:-1,Telesport
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1532.ts
+#EXTINF:-1,Sofia (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1531.ts
+#EXTINF:-1,Smile (AL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1530.ts
+#EXTINF:-1,TV Globi  (TEST)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1426.ts
+#EXTINF:-1,STAR PLUS  (TEST)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1427.ts
+#EXTINF:-1,A1 Shqiptare  (Test)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1429.ts
+#EXTINF:-1,=====Canale NL========
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/389.ts
+#EXTINF:-1,NPO1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/331.ts
+#EXTINF:-1,Npo 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/310.ts
+#EXTINF:-1,Npo 3
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/311.ts
+#EXTINF:-1,RTL 4
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/332.ts
+#EXTINF:-1,RTL 5
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/333.ts
+#EXTINF:-1,RTL 7
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/334.ts
+#EXTINF:-1,RTL 8
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/335.ts
+#EXTINF:-1,SBS 6
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/315.ts
+#EXTINF:-1,SBS 9
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/336.ts
+#EXTINF:-1,Net5
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/319.ts
+#EXTINF:-1,Veronica
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/316.ts
+#EXTINF:-1,Disney Channel
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/317.ts
+#EXTINF:-1,NIckelodeon NL
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/736.ts
+#EXTINF:-1,Fox   (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1013.ts
+#EXTINF:-1,Film 1 Premiere
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/168.ts
+#EXTINF:-1,Film1 Spotlight
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1413.ts
+#EXTINF:-1,Film 1 Action
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/324.ts
+#EXTINF:-1,Film 1  Sundance
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/326.ts
+#EXTINF:-1,Film 1  Comedy
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/325.ts
+#EXTINF:-1,HBO
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/314.ts
+#EXTINF:-1,HBO 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/308.ts
+#EXTINF:-1,HBO 3
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/309.ts
+#EXTINF:-1,Fox Sports 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/312.ts
+#EXTINF:-1,Fox Sports 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/313.ts
+#EXTINF:-1,Fox Sports 3
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/318.ts
+#EXTINF:-1,Fox Sports 4
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/454.ts
+#EXTINF:-1,Fox Sports 5
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/453.ts
+#EXTINF:-1,Fox Sports 6
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1101.ts
+#EXTINF:-1,Sport 1 Select
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/321.ts
+#EXTINF:-1,Sport 1 Extra 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1242.ts
+#EXTINF:-1,Sport 1 Extra 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1243.ts
+#EXTINF:-1,Sport 1 Voetbal
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/322.ts
+#EXTINF:-1,Sport 1 Racing (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1102.ts
+#EXTINF:-1,Sport 1 Golf
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/320.ts
+#EXTINF:-1,Fox Life (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/770.ts
+#EXTINF:-1,13th Street  (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1534.ts
+#EXTINF:-1,Comedy Central (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/758.ts
+#EXTINF:-1,Comedy Central Extra (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1542.ts
+#EXTINF:-1,Baby TV  (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1539.ts
+#EXTINF:-1,24Kitchen  (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1537.ts
+#EXTINF:-1,192 TV (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1536.ts
+#EXTINF:-1,Discovery Channel (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/760.ts
+#EXTINF:-1,Cartoon NL
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/881.ts
+#EXTINF:-1,MTV (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1069.ts
+#EXTINF:-1,L1 Limburg
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1058.ts
+#EXTINF:-1,TV Oost
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1414.ts
+#EXTINF:-1,Ketnet (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1070.ts
+#EXTINF:-1,Fox Life (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1060.ts
+#EXTINF:-1,Jim  (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1071.ts
+#EXTINF:-1,Fox Channel NL
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/337.ts
+#EXTINF:-1,Een HD  (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1061.ts
+#EXTINF:-1,Edge Sport (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1059.ts
+#EXTINF:-1,Crime & Investigation (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1072.ts
+#EXTINF:-1,Canvas HD (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1062.ts
+#EXTINF:-1,AT 5 (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1063.ts
+#EXTINF:-1,Acht  (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1073.ts
+#EXTINF:-1,NPO Zappelin Xtra/Humor TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1055.ts
+#EXTINF:-1,NPO Politiek/Best
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1056.ts
+#EXTINF:-1,NPO Doc
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1057.ts
+#EXTINF:-1,National Geographic (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1077.ts
+#EXTINF:-1,Nat Geo HD (NL)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1076.ts
+#EXTINF:-1,RTL Lounge (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1068.ts
+#EXTINF:-1,NatGeo HD NL
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/338.ts
+#EXTINF:-1,My Music
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/713.ts
+#EXTINF:-1,Vitaya (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1064.ts
+#EXTINF:-1,Vijf (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1065.ts
+#EXTINF:-1,TLC (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1066.ts
+#EXTINF:-1,Syfy Benelux (BE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1067.ts
+#EXTINF:-1,======Sky De======
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/386.ts
+#EXTINF:-1,Das Erste
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/148.ts
+#EXTINF:-1,ZDF
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/163.ts
+#EXTINF:-1,3sat (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/718.ts
+#EXTINF:-1,KIKA
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1100.ts
 #EXTINF:-1,RTL DE
-http://stream.balticbox.tv:8080/NBA/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Viasat Golf
-http://stream.balticbox.tv:8080/VSGOLF/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV BASE
-http://stream.balticbox.tv:8080/MTVB/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV ROCKS
-http://stream.balticbox.tv:8080/MTVR/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV Dance
-http://stream.balticbox.tv:8080/MTVD/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV Hits
-http://stream.balticbox.tv:8080/MTVH/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV MUSIC
-http://stream.balticbox.tv:8080/MTVM/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,VIVA
-http://stream.balticbox.tv:8080/VIVA/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky 1
-http://stream.balticbox.tv:8080/Sky1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky 2
-http://stream.balticbox.tv:8080/Sky2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Atlantic
-http://stream.balticbox.tv:8080/SkyAtl/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 1
-http://stream.balticbox.tv:8080/ITV1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 2
-http://stream.balticbox.tv:8080/ITV2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 3
-http://stream.balticbox.tv:8080/ITV3/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 4
-http://stream.balticbox.tv:8080/ITV4/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BBC One HD
-http://stream.balticbox.tv:8080/HDBBC1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BBC Two HD
-http://stream.balticbox.tv:8080/HDBBC2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Motors
-http://stream.balticbox.tv:8080/MOTUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Dave
-http://stream.balticbox.tv:8080/dave/mono.m3u8?token=asg!1dkhasg!54754
-
-
-
-
-#EXTINF:-1, Sky 1
-http://alturl.com/4cztg
-#EXTINF:-1, Sky 2
-http://alturl.com/qq8pz
-#EXTINF:-1, Sky Drama Rom Movies
-http://alturl.com/2ysgi
-#EXTINF:-1, Sky Atlantic
-http://bit.do/bnQRj
-#EXTINF:-1, Sky Select Movies
-http://alturl.com/fkpd5
-#EXTINF:-1, Sky Action Movies
-http://alturl.com/8x8uk
-#EXTINF:-1, Sky Greats Movies
-http://alturl.com/6gcfu
-#EXTINF:-1, Sky Premiere Movies
-http://alturl.com/f2waa
-#EXTINF:-1, Sky Family Movies
-http://alturl.com/q2sdo
-#EXTINF:-1, Sky Thriller Movies
-http://alturl.com/p3diz
-#EXTINF:-1, Sky Movies Disney
-http://bit.do/bnQRQ
-#EXTINF:-1, Sky Comedy Movies
-http://alturl.com/jp3qr
-#EXTINF:-1, Sky ScFi Horror Movies
-http://alturl.com/7rw5z
-#EXTINF:-1, sky thriller
-http://alturl.com/p3diz
-#EXTINF:-1, sky premiere
-http://alturl.com/f2waa
-#EXTINF:-1,  sky select
-http://alturl.com/fkpd5
-#EXTINF:-1, Sky Comedy
-http://alturl.com/jp3qr
-#EXTINF:-1, cartoon network
-http://alturl.com/onuvj
-#EXTINF:-1, Discovery Science
-http://alturl.com/ym2n9
-#EXTINF:-1, Discovery World
-http://alturl.com/5mkjh
-#EXTINF:-1, Viasat History
-http://alturl.com/e5ydt
-#EXTINF:-1, H2O
-http://alturl.com/p66se
-#EXTINF:-1, NAT GEO
-http://alturl.com/zbw8j
-#EXTINF:-1, Discovery
-http://alturl.com/ix2w9
-#EXTINF:-1, Animal Planet
-http://alturl.com/uk4nf
-#EXTINF:-1, TLC
-http://alturl.com/d63cx
-#EXTINF:-1, Viasat Nature
-http://alturl.com/tutjp
-#EXTINF:-1, A-ONE
-http://alturl.com/6rdas
-#EXTINF:-1, AMC
-http://alturl.com/f4yit
-#EXTINF:-1, RTE One
-http://alturl.com/rnb3a
-#EXTINF:-1, Viasat Explorer
-http://alturl.com/nxy8j
-#EXTINF:-1, ID
-http://alturl.com/5visi
-#EXTINF:-1, RTEjr
-http://alturl.com/3ushi
-#EXTINF:-1, RTE Two
-http://alturl.com/fvtgw
-#EXTINF:-1, Animal Planet
-http://alturl.com/o547z
-#EXTINF:-1, Discovery History
-http://alturl.com/b7kra
-#EXTINF:-1, Discovery Turbo
-http://alturl.com/dozqo
-#EXTINF:-1, CBS Reality+1 UK
-http://alturl.com/8ufbs
-#EXTINF:-1, DisneyChnl
-http://alturl.com/kzeg5
-#EXTINF:-1, Cartoon Network UK
-http://alturl.com/bjwff
-#EXTINF:-1, DisneyJunior
-http://alturl.com/f6bc8
-#EXTINF:-1, Discovery1
-http://alturl.com/rpnek
-#EXTINF:-1, Discovery Science
-http://alturl.com/r9mwz
-#EXTINF:-1, MUTV
-http://alturl.com/vid4r
-
-
-
-#EXTINF:0, Eurosport 1 uk
-http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
-#EXTINF:0, Eurosport 2 uk
-http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
-#EXTINF:0, BT Sport 1
-http://195.154.226.186:1935/livepp7/btsports1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 2
-http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8
-#EXTINF:0, ESPN UK
-http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
-#EXTINF:0,Premier sports
-http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
-#EXTINF:0, ArenaSport 1
-http://195.154.226.186:1935/livepp7/arhd1lsh/playlist.m3u8
-#EXTINF:0, ArenaSport 2
-http://195.154.226.186:1935/livepp7/arhd2lsh/playlist.m3u8
-#EXTINF:0, ArenaSport 3
-http://195.154.226.186:1935/livepp7/arhd3lsh/playlist.m3u8
-#EXTINF:0, ArenaSport 4
-http://195.154.226.186:1935/livepp7/arhd4lsh/playlist.m3u8
-#EXTINF:0,SportKlub 1
-http://195.154.226.186:1935/livepp7/skhd1lsh/playlist.m3u8
-#EXTINF:0,SportKlub 2
-http://195.154.226.186:1935/livepp7/skhd2lsh/playlist.m3u8
-#EXTINF:0,SportKlub 3
-http://195.154.226.186:1935/livepp7/skhd3lsh/playlist.m3u8
-
-
-#EXTINF:0,OLALA (18+)
-
-http://j.mp/ZCH_C06_OLALA_sly?.m3u8
-
-#EXTINF:-1,bsx24
-
-http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
-
-
-
-#EXTINF:0, Private
-
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-
-#EXTINF:-1, PASSI XXX
-
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-
-#EXTINF:-1, SAKURA
-
-http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
-
-#EXTINF:-1, HOT GIRL
-
-http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
-
-#EXTINF:-1, THE O
-
-http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8
-
-#EXTINF:-1, CINERO
-
-http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8
-
-#EXTINF:-1, OKADAI HD
-
-http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
-
-#EXTINF:-1, PINK TV
-
-http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
-
-#EXTINF:-1, GIRLS TV
-
-http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
-
-#EXTINF:-1, DELIGHT EMPIRE
-
-http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8
-
-#EXTINF:-1, OHDEOK
-
-http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8
-
-#EXTINF:-1, LIVETHING
-
-http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8
-
-#EXTINF:-1, PREMIUM
-
-http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
-
-#EXTINF:-1, ASK TV
-
-http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-
-#EXTINF:-1, Brazzers Europe
-
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-
-#EXTINF:-1, OLALA
-
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-
-#EXTINF:-1,HOT SHOTS
-
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-
-#EXTINF:-1,CS Sex +18 ADULT
-mmsh://tv.webmisto.cz:7000
-
-#EXTINF:-1,Jasmin
-
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-
-#EXTINF:-1,SATISFACTION HD
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-
-#EXTINF:-1,Brasileirinhas
-
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-
-#EXTINF:-1,LiveSex Latinas
-
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-
-#EXTINF:-1,Wepa
-
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
-
-#EXTINF:-1,Wepa 2
-
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
-
-#EXTINF:-1,Power Girls TV HD
-
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-
-#EXTINF:0,ADULT TV 1
-
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-
-#EXTINF:-1,Adult:CS Sex +18 ADULT mmsh
-mmsh://tv.webmisto.cz:7000
-
-#EXTINF:-1,BABE_XXX
-
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-
-#EXTINF:-1,Adult:Babestation
-
-http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-
-#EXTINF:-1,Adult:Babestation Blue
-
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-
-
-#EXTINF:-1,Checa 18 MMSH
-mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1,CALIENTE
-http://4.31.30.159:9003
-#EXTINF:-1,XXX NUEVO
-http://4.31.30.159:9005
-#EXTINF:-1,******* TV
-http://4.31.30.159:9006
-#EXTINF:-1,Erótica Cuatro
-http://portal.rapidiptv.com:8080/live/trial/Rr0eP80gpY/5151.m3u8
-#EXTINF:-1,PASSI XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,*******
-http://62.210.82.241:8081/pboytv/pboytv/live.m3u8
-#EXTINF:-1,***ZONE HD
-http://62.210.83.180:8081/***zonehd/***zonehd/chunklist_w1684109871.m3u8
-#EXTINF:-1,***Y HOT
-http://62.210.82.241:8081/***hothd/***hothd/chunklist_w1565017858.m3u8
-#EXTINF:-1,BRAZZERS
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1,OLALA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1,Virgin
-http://188.165.220.116:8081/live/44/playlist.m3u8
-#EXTINF:-1,Throated
-http://188.165.220.116:8081/live2/19/playlist.m3u8
-#EXTINF:-1,***zone
-http://62.210.82.241:8081/***zonehd/***zonehd/live.m3u8
-#EXTINF:-1,Private
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,Italy Statisfication
-http://109.192.117.22:8001/1:0:1:A:1388:13E:820000:0:0:0:
-#EXTINF:-1,T Girls TV
-http://109.192.117.22:8001/1:0:1:35C0:1388:13E:820000:0:0:0:
-#EXTINF:-1,SCT
-http://109.192.117.22:8001/1:0:1:35C8:1388:13E:820000:0:0:0:
-#EXTINF:-1,Exotica TV
-http://109.192.117.22:8001/1:0:1:35C1:1388:13E:820000:0:0:0:
-#EXTINF:-1,Boy Boy
-http://109.192.117.22:8001/1:0:1:35C3:1388:13E:820000:0:0:0:
-#EXTINF:-1,CENTOxCENTO
-http://109.192.117.22:8001/1:0:1:35C6:1388:13E:820000:0:0:0:
-#EXTINF:-1,***t6
-http://109.192.117.22:8001/1:0:1:35C7:1388:13E:820000:0:0:0:
-#EXTINF:-1, RED Gazelle-erotic
-rtmp://94.242.228.182/yoy/_definst_/251
-#EXTINF:-1,Penthouse HD
-http://82.146.20.98:1234/udp/239.130.50.124:9001
-#EXTINF:-1,S ext6senso
-http://82.146.20.98:1234/udp/239.130.50.126:9001
-#EXTINF:-1,TGIRLS TV
-http://82.146.20.98:1234/udp/239.130.50.127:9001
-#EXTINF:-1,Satisfaction
-http://82.146.20.98:1234/udp/239.130.50.128:9001
-#EXTINF:-1,SCT
-http://82.146.20.98:1234/udp/239.130.50.129:9001
-#EXTINF:-1,Pinko TV
-http://82.146.20.98:1234/udp/239.130.50.130:9001
-#EXTINF:-1,Hustler HD
-http://82.146.20.98:1234/udp/239.130.50.132:9001
-#EXTINF:-1,Private
-http://82.146.20.98:1234/udp/239.130.50.134:9001
-#EXTINF:-1,Frenchlover
-http://82.146.20.98:1234/udp/239.130.50.135:9001
-#EXTINF:-1,PASSI XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,SAKURA
-http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
-#EXTINF:-1,HOT GIRL
-http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
-#EXTINF:-1,THE O
-http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8
-#EXTINF:-1,CINERO
-http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8
-#EXTINF:-1,OKADAI HD
-http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
-#EXTINF:-1,PINK TV
-http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
-#EXTINF:-1,GIRLS TV
-http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
-#EXTINF:-1,DELIGHT EMPIRE
-http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8
-#EXTINF:-1,PLUS
-http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8
-#EXTINF:-1,OHDEOK
-http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8
-#EXTINF:-1,LIVETHING
-http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8
-#EXTINF:-1,PREMIUM
-http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
-#EXTINF:-1,ASK TV
-http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-
-
-
-
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/159.ts
+#EXTINF:-1,RTL 2 DE
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/158.ts
+#EXTINF:-1,Arte HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1352.ts
+#EXTINF:-1,VOX DE
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/162.ts
+#EXTINF:-1,Sat 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/160.ts
+#EXTINF:-1,Pro 7
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/157.ts
+#EXTINF:-1,Kabel 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/149.ts
+#EXTINF:-1,Sky Cinema  (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/459.ts
+#EXTINF:-1,Sky Hits (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1052.ts
+#EXTINF:-1,Sky Action (D)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/460.ts
+#EXTINF:-1,Sky Comedy DE
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/208.ts
+#EXTINF:-1,SKY Cinema +24    (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/356.ts
+#EXTINF:-1,SKY Emotion (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/355.ts
+#EXTINF:-1,Sky Krimi (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1040.ts
+#EXTINF:-1,Sky Select 8 (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1114.ts
+#EXTINF:-1,TNT Serie   (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1034.ts
+#EXTINF:-1,RTL  Krimi  (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1025.ts
+#EXTINF:-1,Passion (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1026.ts
+#EXTINF:-1,National Geographic DE
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1027.ts
+#EXTINF:-1,Nat Geo Wild DE
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1028.ts
+#EXTINF:-1,Motorvision TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1029.ts
+#EXTINF:-1,Fox HD DE
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1030.ts
+#EXTINF:-1,Discovery Channel DE
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1031.ts
+#EXTINF:-1,Sky Nostalgie
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1051.ts
+#EXTINF:-1,MGM  (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1053.ts
+#EXTINF:-1,Disney Cinemagic Deutschland
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1054.ts
+#EXTINF:-1,SKY NatGeo Wild
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/353.ts
+#EXTINF:-1,SKY Natgeo
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/354.ts
+#EXTINF:-1,Sky Sport News HD (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1050.ts
+#EXTINF:-1,Sky Sport Austria
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1022.ts
+#EXTINF:-1,SKY Bundesliga HD (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/457.ts
+#EXTINF:-1,SKY Sport 1 HD (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/455.ts
+#EXTINF:-1,SKY Sport 2 HD (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/456.ts
+#EXTINF:-1,=============Turki================
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/385.ts
+#EXTINF:-1,Suryoyo SAT (Test)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1341.ts
+#EXTINF:-1,Show TV TR HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/340.ts
+#EXTINF:-1,ATV HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/416.ts
+#EXTINF:-1,Kanal Turk
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/421.ts
+#EXTINF:-1,LIG TV -  1 TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/428.ts
+#EXTINF:-1,LIG TV -  2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/429.ts
+#EXTINF:-1,LIG TV 3
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/430.ts
+#EXTINF:-1,Tivibu Spor 1 (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1496.ts
+#EXTINF:-1,Tivibu Spor 2 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1580.ts
+#EXTINF:-1,CEM TV  (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1084.ts
+#EXTINF:-1,BEYAZ TV  (tr)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1083.ts
+#EXTINF:-1,TV VOL
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1081.ts
+#EXTINF:-1,FLESH TURKI
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1082.ts
+#EXTINF:-1,Kanal D HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/417.ts
+#EXTINF:-1,Kanal 7
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/330.ts
+#EXTINF:-1,Dream TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/327.ts
+#EXTINF:-1,TRT Muzik (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/932.ts
+#EXTINF:-1,TRT 1 HD (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/921.ts
+#EXTINF:-1,Samanyolu TV (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/918.ts
+#EXTINF:-1,NR 1 Turk (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/931.ts
+#EXTINF:-1,Halk TV (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/930.ts
+#EXTINF:-1,Bugun TV (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/920.ts
+#EXTINF:-1,Kral TV (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/734.ts
+#EXTINF:-1,Kral Pop (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/735.ts
+#EXTINF:-1,Smart Spor 2 HD (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/851.ts
+#EXTINF:-1,Smart Spor 1 HD (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/850.ts
+#EXTINF:-1,Fox Turk
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/329.ts
+#EXTINF:-1,TV 8 HD TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/419.ts
+#EXTINF:-1,TV 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/423.ts
+#EXTINF:-1,TRT Spor HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/435.ts
+#EXTINF:-1,TRT HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/425.ts
+#EXTINF:-1,TRT Haber HD TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/449.ts
+#EXTINF:-1,Sinema TV 1 HD TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/443.ts
+#EXTINF:-1,NTV TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/450.ts
+#EXTINF:-1,NTV SPORT TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/487.ts
+#EXTINF:-1,Loca 3 (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/695.ts
+#EXTINF:-1,Jinbox Sinema 4 HD (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/689.ts
+#EXTINF:-1,Jinbox Sinema 1 HD (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/686.ts
+#EXTINF:-1,Haber Turk
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/448.ts
+#EXTINF:-1,GS TV TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/437.ts
+#EXTINF:-1,Grand TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/125.ts
+#EXTINF:-1,Flash TV TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/418.ts
+#EXTINF:-1,E2 (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/685.ts
+#EXTINF:-1,CNN Turk
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/446.ts
+#EXTINF:-1,Cine 5 (TR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/700.ts
+#EXTINF:-1,A Spor HD TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/436.ts
+#EXTINF:-1,A Haber HD TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/447.ts
+#EXTINF:-1,======EX-YU ========
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/388.ts
+#EXTINF:-1,HRT 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/15.ts
+#EXTINF:-1,HRT 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/16.ts
+#EXTINF:-1,HRT 3
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/17.ts
+#EXTINF:-1,HRT 4
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/18.ts
+#EXTINF:-1,RTS 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/9.ts
+#EXTINF:-1,RTS 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/10.ts
+#EXTINF:-1,RTL 2 HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/22.ts
+#EXTINF:-1,RTRS
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/11.ts
+#EXTINF:-1,B92
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1.ts
+#EXTINF:-1,BN Televizija
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/2.ts
+#EXTINF:-1,BH TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/25.ts
+#EXTINF:-1,Cinemax 2   HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/73.ts
+#EXTINF:-1,Cinemax  HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/72.ts
+#EXTINF:-1,Doma TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/572.ts
+#EXTINF:-1,DM Sat
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/124.ts
+#EXTINF:-1,TV1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/979.ts
+#EXTINF:-1,PINK PLUS
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/977.ts
+#EXTINF:-1,RTL Living   (HR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1020.ts
+#EXTINF:-1,Hayat Music
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1015.ts
+#EXTINF:-1,24 Kitchen HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1019.ts
+#EXTINF:-1,MINIMAX  HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/992.ts
+#EXTINF:-1,KLASIK TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/980.ts
+#EXTINF:-1,Hayat Folk
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/984.ts
+#EXTINF:-1,Happy TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/981.ts
+#EXTINF:-1,FEDERALNA TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/982.ts
+#EXTINF:-1,DISCOVERY ( HR )
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/999.ts
+#EXTINF:-1,CMC HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/989.ts
+#EXTINF:-1,CINESTAR PREMIERE 2   HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1006.ts
+#EXTINF:-1,TELMA MK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1094.ts
+#EXTINF:-1,Sitel 3
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1095.ts
+#EXTINF:-1,Alfa MK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1093.ts
+#EXTINF:-1,Telma   MK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1358.ts
+#EXTINF:-1,Kanal 5 MK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1092.ts
+#EXTINF:-1,Discovery Serbia
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1032.ts
+#EXTINF:-1,CINESTAR   HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1009.ts
+#EXTINF:-1,BN MUSIC
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/990.ts
+#EXTINF:-1,BABY TV   HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/994.ts
+#EXTINF:-1,ATV HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/988.ts
+#EXTINF:-1,HBO Comedy
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/78.ts
+#EXTINF:-1,HBO Adria  HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/77.ts
+#EXTINF:-1,Hayat Plus
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/29.ts
+#EXTINF:-1,Hayat BiH
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/28.ts
+#EXTINF:-1,Nova (RS)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/570.ts
+#EXTINF:-1,Nova
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/4.ts
+#EXTINF:-1,OBN
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/30.ts
+#EXTINF:-1,Prva Plus
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/8.ts
+#EXTINF:-1,Prva
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/599.ts
+#EXTINF:-1,Pink Zabava
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/119.ts
+#EXTINF:-1,Pink Western
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/117.ts
+#EXTINF:-1,Pink Soap
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/115.ts
+#EXTINF:-1,Pink Reality
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/113.ts
+#EXTINF:-1,Pink Premium
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/112.ts
+#EXTINF:-1,Pink Pedia
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/111.ts
+#EXTINF:-1,Pink Kids
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/345.ts
+#EXTINF:-1,Pink Horror
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/101.ts
+#EXTINF:-1,Pink Folk 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/100.ts
+#EXTINF:-1,Pink Film
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/98.ts
+#EXTINF:-1,Pink Comedy
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/96.ts
+#EXTINF:-1,Pink BH
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/31.ts
+#EXTINF:-1,Pink 3
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/92.ts
+#EXTINF:-1,Pink 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/91.ts
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/963.ts
+#EXTINF:-1,Pink Romance
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/964.ts
+#EXTINF:-1,Pink Extra
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/961.ts
+#EXTINF:-1,Pink Crime & Mistery
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/962.ts
+#EXTINF:-1,RTV 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/13.ts
+#EXTINF:-1,RTL Kockica  HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/136.ts
+#EXTINF:-1,RTL HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/21.ts
+#EXTINF:-1,Face TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/574.ts
+#EXTINF:-1,TV 1 BIH
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/33.ts
+#EXTINF:-1,Al Jazeera Balkans
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/24.ts
+#EXTINF:-1,Sky Sports F1 (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1153.ts
+#EXTINF:-1,SPORT KLUB1 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/968.ts
+#EXTINF:-1,SPORT KLUB2 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/969.ts
+#EXTINF:-1,SPORT KLUB3 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/970.ts
+#EXTINF:-1,Arena Sport 1    HD  (HR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/341.ts
+#EXTINF:-1,Arena Sport  3 HD (HR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/342.ts
+#EXTINF:-1,Arena Sport HD  4 HR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/343.ts
+#EXTINF:-1,Arena Sport5 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/967.ts
+#EXTINF:-1,Arena Sport 2
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/42.ts
+#EXTINF:-1,Italia 1 (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1515.ts
+#EXTINF:-1,Rai 1 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1174.ts
+#EXTINF:-1,Rai 2 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1175.ts
+#EXTINF:-1,Rai 3 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1176.ts
+#EXTINF:-1,Rai 4 (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1177.ts
+#EXTINF:-1,Rai 5
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1581.ts
+#EXTINF:-1,Sky Cinema Max HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1217.ts
+#EXTINF:-1,Sky Cinema +24 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1517.ts
+#EXTINF:-1,Sky Atlantic HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1516.ts
+#EXTINF:-1,Sky Cinema Cult HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1214.ts
+#EXTINF:-1,Sky Cinema Comedy HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1213.ts
+#EXTINF:-1,Sky Cinema 1 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1211.ts
+#EXTINF:-1,Sky Calcio HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1203.ts
+#EXTINF:-1,TOP Crime (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1191.ts
+#EXTINF:-1,Sky Super Calcio HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1398.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1582.ts
+#EXTINF:-1,Sky Sport F1 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1206.ts
+#EXTINF:-1,Sky Sport 3 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1204.ts
+#EXTINF:-1,Real Time
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1588.ts
+#EXTINF:-1,Premium Sport HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1589.ts
+#EXTINF:-1,Premium Calcio HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1590.ts
+#EXTINF:-1,La 7
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1591.ts
+#EXTINF:-1,Iris
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1592.ts
+#EXTINF:-1,History HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1595.ts
+#EXTINF:-1,Fox Sport
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1593.ts
+#EXTINF:-1,Sky Sport 24 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1205.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1583.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1584.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1585.ts
+#EXTINF:-1,Sky Cinema 1 (DE)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1074.ts
+#EXTINF:-1,RSI La 1 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1587.ts
+#EXTINF:-1,RSI La 2 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1586.ts
+#EXTINF:-1,Sky Motor GP HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1207.ts
+#EXTINF:-1,Premium Cinema Energy (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/800.ts
+#EXTINF:-1,Sky Cinema Passion HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1218.ts
+#EXTINF:-1,Rai Sport 1 (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1208.ts
+#EXTINF:-1,Rai News 24 (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1179.ts
+#EXTINF:-1,Rai Movie (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1180.ts
+#EXTINF:-1,Premium Crime HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1223.ts
+#EXTINF:-1,Premium Cinema HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1219.ts
+#EXTINF:-1,Premium Cinema Comedy (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1222.ts
+#EXTINF:-1,Premium Cinema 2 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1220.ts
+#EXTINF:-1,Premium Action (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1221.ts
+#EXTINF:-1,Canale 5 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1184.ts
+#EXTINF:-1,Sky Sport 2 HD (IT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/843.ts
+#EXTINF:-1,Sky Primafila 1 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1556.ts
+#EXTINF:-1,Sky Primafila 2 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1557.ts
+#EXTINF:-1,Sky Primafila 3 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1558.ts
+#EXTINF:-1,Sky Primafila 4 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1559.ts
+#EXTINF:-1,Sky Primafila 5 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1560.ts
+#EXTINF:-1,Sky Primafila 6 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1561.ts
+#EXTINF:-1,Sky Primafila 7 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1562.ts
+#EXTINF:-1,Sky Primafila 9 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1564.ts
+#EXTINF:-1,Sky Primafila 10 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1565.ts
+#EXTINF:-1,Sky Primafila 11 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1566.ts
+#EXTINF:-1,Sky Primafila 12 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1567.ts
+#EXTINF:-1,Sky PrimaFila 13 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1568.ts
+#EXTINF:-1,Sky PrimaFila 14 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1569.ts
+#EXTINF:-1,Sky PrimaFila 15 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1570.ts
+#EXTINF:-1,Sky PrimaFila 16 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1571.ts
+#EXTINF:-1,Sky PrimaFila 17 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1572.ts
+#EXTINF:-1,Sky PrimaFila 18 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1573.ts
+#EXTINF:-1,Sky PrimaFila 19 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1574.ts
+#EXTINF:-1,======Tring Digital=====
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/382.ts
+#EXTINF:-1,RTP 1 HD (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1474.ts
+#EXTINF:-1,RTP 2 (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1475.ts
+#EXTINF:-1,Sport TV 1 HD (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1481.ts
+#EXTINF:-1,Sport TV 2 HD (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1482.ts
+#EXTINF:-1,Sport TV 3 HD (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1483.ts
+#EXTINF:-1,Sport TV 5 HD (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1485.ts
+#EXTINF:-1,Benfica 1 (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1479.ts
+#EXTINF:-1,Benfica 2 (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1480.ts
+#EXTINF:-1,TVI (PT)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1477.ts
+#EXTINF:-1,=======England SKY ========
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/390.ts
+#EXTINF:-1,Sky Movies Sci-Fi and Horror (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1169.ts
+#EXTINF:-1,Sky Movies Premiere (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1168.ts
+#EXTINF:-1,Sky Movies Greats (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1167.ts
+#EXTINF:-1,Sky Movies Family (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1166.ts
+#EXTINF:-1,Sky Movies Comedy (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1163.ts
+#EXTINF:-1,Sky Movies Action and Adventure (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1162.ts
+#EXTINF:-1,Sky Atlantic (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1157.ts
+#EXTINF:-1,Premier Sports (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1151.ts
+#EXTINF:-1,Sky Sport 2 UK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/476.ts
+#EXTINF:-1,Sky Sport 3 UK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/475.ts
+#EXTINF:-1,Box Nation (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1103.ts
+#EXTINF:-1,BBC 3 (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1117.ts
+#EXTINF:-1,Sky Sport  4 UK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/474.ts
+#EXTINF:-1,BBC 2 (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1116.ts
+#EXTINF:-1,iTV 1 (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1126.ts
+#EXTINF:-1,Sky Sport 5 UK
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/473.ts
+#EXTINF:-1,BBC 1 (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1115.ts
+#EXTINF:-1,Gold Channel (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1155.ts
+#EXTINF:-1,BT Sport ESPN (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1106.ts
+#EXTINF:-1,BT Sport 2 (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1105.ts
+#EXTINF:-1,BT Sport 1 (UK)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1104.ts
+#EXTINF:-1,BARCA TV
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/976.ts
+#EXTINF:-1,CBS Reality
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1535.ts
+#EXTINF:-1,BBC Entertainment
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1540.ts
+#EXTINF:-1,=====INDIA=====
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/383.ts
+#EXTINF:-1,STAR Plus   (IND)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1415.ts
+#EXTINF:-1,SET Asia  (IND)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1418.ts
+#EXTINF:-1,Zee Cinema
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1417.ts
+#EXTINF:-1,Zee  TV  (IND)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1416.ts
+#EXTINF:-1,=============Franc================
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/393.ts
+#EXTINF:-1,Gulli (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1381.ts
+#EXTINF:-1,BFM TV (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1376.ts
+#EXTINF:-1,13éme Rue HD (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1370.ts
+#EXTINF:-1,France O (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1363.ts
+#EXTINF:-1,France 4 (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1366.ts
+#EXTINF:-1,France 2 (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1364.ts
+#EXTINF:-1,D8 (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1378.ts
+#EXTINF:-1,Ciné+ Premier (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1397.ts
+#EXTINF:-1,Ciné+ Emotion (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1396.ts
+#EXTINF:-1,Canal+ HD (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1391.ts
+#EXTINF:-1,Canal+ Family (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1395.ts
+#EXTINF:-1,Canal+ Décalé (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1394.ts
+#EXTINF:-1,Canal+ Cinema HD (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1393.ts
+#EXTINF:-1,Arte (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1375.ts
+#EXTINF:-1,AB1 (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1371.ts
+#EXTINF:-1,TF1 HD (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1360.ts
+#EXTINF:-1,MRT 1
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1357.ts
+#EXTINF:-1,Canal+ Sport (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/753.ts
+#EXTINF:-1,M6 HD (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1361.ts
+#EXTINF:-1,====================TV Espanja========================
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/395.ts
+#EXTINF:-1,Real Madrid TV (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1455.ts
+#EXTINF:-1,Fox Sports 2 (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1454.ts
+#EXTINF:-1,Fox Sports 1 (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1453.ts
+#EXTINF:-1,Canal+ Toros (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1447.ts
+#EXTINF:-1,Canal+ La Liga HD (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1450.ts
+#EXTINF:-1,Canal+ Golf HD (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1451.ts
+#EXTINF:-1,Canal+ Futbol HD (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1436.ts
+#EXTINF:-1,Canal+ Deportes HD (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1449.ts
+#EXTINF:-1,Canal+ DCine (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1446.ts
+#EXTINF:-1,======Italia========
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/387.ts
+#EXTINF:-1,Canal+ Comedia (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1445.ts
+#EXTINF:-1,Canal+ 1 (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1437.ts
+#EXTINF:-1,Antena 3 HD (ES)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1438.ts
+#EXTINF:-1,2M Maroc (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1538.ts
+#EXTINF:-1,beIN Sports HD 1 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/721.ts
+#EXTINF:-1,beIN Sports HD 2 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/722.ts
+#EXTINF:-1,beIN Sports HD 3 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/723.ts
+#EXTINF:-1,beIN Sports HD 4 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/724.ts
+#EXTINF:-1,beIN Sports HD 5 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/725.ts
+#EXTINF:-1,beIN Sports HD 6 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/726.ts
+#EXTINF:-1,beIN Sports HD 3 (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1170.ts
+#EXTINF:-1,beIN Sports HD 7 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/727.ts
+#EXTINF:-1,Sky Primafila 8 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1563.ts
+#EXTINF:-1,beIN Sports HD 8 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/728.ts
+#EXTINF:-1,beIN Sports HD 9 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/729.ts
+#EXTINF:-1,beIN Sports HD 10 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/730.ts
+#EXTINF:-1,STAR TV TR
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/339.ts
+#EXTINF:-1,beIN Sports HD 11 (AR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/731.ts
+#EXTINF:-1,beIN Sports HD 1 (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/719.ts
+#EXTINF:-1,beIN Sports HD 2 (FR)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/720.ts
+#EXTINF:-1,BEIN SPORTS 16
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1579.ts
+#EXTINF:-1,========================SEXXXXX==18+==============
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/394.ts
+#EXTINF:-1,Brazzers TV Europe
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1541.ts
+#EXTINF:-1,Primafila Hot Club 2 (XX)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1510.ts
+#EXTINF:-1,Primafila Hot Club 3 (XX)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1511.ts
+#EXTINF:-1,Primafila Hot Club 4 (XX)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1512.ts
+#EXTINF:-1,Meiden van Holland Hard NL (XX)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1505.ts
+#EXTINF:-1,DUSK! DeLuxe NL (XX)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1504.ts
+#EXTINF:-1,Dorcel (XX)
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1503.ts
+#EXTINF:-1,The Equalizer
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1662.mp4
+#EXTINF:-1,Storm Hunters
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1661.mp4
+#EXTINF:-1,Sieben verdammt lange Tage
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1660.mp4
+#EXTINF:-1,Million Dollar Arm
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1659.mp4
+#EXTINF:-1,Good Kill - Tod aus der Luft
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1658.mp4
+#EXTINF:-1,Die grosse Versuchung
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1657.mp4
+#EXTINF:-1,Die bestimmung Insurgent
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1663.mp4
+#EXTINF:-1,Vice
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1654.mp4
+#EXTINF:-1,The Avengers Age of Ultron
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1648.mp4
+#EXTINF:-1,Spy-Susan Cooper Undercover
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1652.mp4
+#EXTINF:-1,San Andreas
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1651.mp4
+#EXTINF:-1,Pitch Perfect 2
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1650.mp4
+#EXTINF:-1,Pate
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1653.mp4
+#EXTINF:-1,Devil s Knot - Im Schatten der Wahrheit
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1656.mp4
+#EXTINF:-1,Der nanny
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1649.mp4
+#EXTINF:-1,Cold in July
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1655.mp4
+#EXTINF:-1,Another Me - Mein zweites Ich
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1646.mp4
+#EXTINF:-1,Aloha - Die Chance auf Glück
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1647.mp4
+#EXTINF:-1,Robocop
+http://123iptv.nl:88/movie/rjexor5blH/6L5hibxgzF/1502.mkv
