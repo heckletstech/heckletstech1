@@ -1,19 +1,165 @@
 #EXTM3U
 
 
-#EXTINF:0, donate paypal upstartcrash@gmail.com
-http://balkanstream.com/stream/fox/hospa042/f95de994
-
-
-
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK HD 1500k
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
-
-
-
-
-#EXTINF:-1,HBO 
-http://www.daili.ml/fetch.php/89.248.172.57:1935/edge/_definst_/qzbbu26gcvjxksz/media_1968.ts?wowzasessionid=548478737 
-
-#EXTINF:-1,ABC
-http://www.daili.ml/fetch.php/89.248.172.57:1935/edge/_definst_/371jluirljcsjen/media_2882.ts?wowzasessionid=1447717348 
+#EXTINF:-1,OXYGEN
+http://31.220.40.114:80/LiveEdge/OxygenSD/playlist.m3u8?token=205150c309cc5a7e75326b19a77e738a 
+#EXTINF:-1,COMEDY CENTRAL 1
+http://31.220.40.121:80/LiveEdge/ComedyCentralHD/playlist.m3u8?token=226a9edf6075a2728f935d6d52edd39d 
+#EXTINF:-1,LIFETIME
+http://31.220.40.118:80/LiveEdge/LifetimeEastUS/playlist.m3u8?token=82ac9be978f6ed01fc87cf9910fca5d6
+#EXTINF:-1,LIFETIME MOVIES
+http://31.220.40.114:80/LiveEdge/LifetimeMovies/playlist.m3u8?token=01d8cf72288874d8572ca9f14163c50b 
+#EXTINF:-1,FOOD NETWORK
+http://31.220.40.114:80/LiveEdge/FoodNetworkEastHD/playlist.m3u8?token=0cc2c74602fb72a8f51b55cd8a683089  
+#EXTINF:-1,DIY
+http://31.220.40.118:80/LiveEdge/DIYNetworkHD/playlist.m3u8?token=724bfa22e341bff8e3cfa3e00b94cf79 
+#EXTINF:-1,HGTV
+http://31.220.40.114:80/LiveEdge/HGTVUS/playlist.m3u8?token=f5e43ec41d8854f17f37c92a8a8c20e4 
+#EXTINF:-1,E
+http://31.220.40.115:80/LiveEdge/eEntUS/playlist.m3u8?token=d769b60f6363dcb0288c4585ff4a30dd 
+#EXTINF:-1,TRUE DRAMA		
+http://31.220.40.108:80/LiveEdge/truedrama.stream/playlist.m3u8?token=858be2bb53ef3c7223dee9b1b0289d70 
+#EXTINF:-1,DRAMA
+http://31.220.41.107:80/LiveEdge/drama.stream/playlist.m3u8?token=2442b26150d7dd2bcbd2c18b257f6d5d 
+#EXTINF:-1,A&E
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/AEEastUS/playlist.m3u8?token=8a235c298a0d2f0d3c15320c066a7afd  
+#EXTINF:-1,DISCOVERY HISTORY
+http://31.220.41.103:80/LiveEdge/discoveryh.stream/playlist.m3u8?token=7923265fcf043b1b6cc495bc9d581c75  
+#EXTINF:-1,HISTORY
+http://31.220.41.103:80/LiveEdge/HistoryHD/playlist.m3u8?token=702e66bef6ed9e5720f7f8f135bcdd51   
+#EXTINF:-1,H2
+http://31.220.40.105:80/LiveEdge/H2US/playlist.m3u8?token=a10b04fde7a1bc01458809925a9d3c7a 
+#EXTINF:-1,SYFY
+http://31.220.40.114:80/LiveEdge/SyFyUS/playlist.m3u8?token=c009fac93c3eb8d61740f987fdfab8e2 
+#EXTINF:-1,TLC
+http://31.220.40.119:80/LiveEdge/TLC.stream/playlist.m3u8?token=7d5e16927969babcc04594c010f0ae62 
+#EXTINF:-1,REALLY
+http://31.220.40.100:80/LiveEdge/Really.stream/playlist.m3u8?token=62292780a2d97f53c5ad4dc4b1efadf9 
+#EXTINF:-1,OXYGEN
+http://31.220.40.115:80/LiveEdge/OxygenSD/playlist.m3u8?token=0b21275d450f68e8b1b2fba9c3934430 
+#EXTINF:-1,BRAVO
+http://31.220.41.103:80/LiveEdge/BravoEastUS/playlist.m3u8?token=4464661e7e259fe21eee94e6e08b0cb4 
+#EXTINF:-1,AMC
+http://31.220.40.118:80/LiveEdge/AMCEastUS/playlist.m3u8?token=8e1c0ec9e6e91411bffb0359844e9212  
+#EXTINF:-1,TCM
+http://31.220.40.114:80/LiveEdge/TCMUS/playlist.m3u8?token=26ea562523e660b20e6389f77764bfca 
+#EXTINF:-1,IFC
+http://31.220.40.121:80/LiveEdge/IFCHD/playlist.m3u8?token=0f9776e8cb8971c44ce38ad1c613887f   
+#EXTINF:-1,FOX
+http://31.220.40.116:80/LiveEdge/fxuk.stream/playlist.m3u8?token=5720bb2faeb4321e459fbfa03cc38035  
+#EXTINF:-1,FX
+http://31.220.40.116:80/LiveEdge/FXEastUS/playlist.m3u8?token=33f9b970ae8f9654ac0445b49a955c0d 
+#EXTINF:-1,ITV ENCORE
+http://31.220.40.115:80/LiveEdge/itvencore.stream/playlist.m3u8?token=b367056cf88bcc02e7c0b99192fd6960 
+#EXTINF:-1,TNT
+http://31.220.40.115:80/LiveEdge/TNTDramaUS/playlist.m3u8?token=dab0859295c949695b9f22012126123e 
+#EXTINF:-1,TBS
+http://31.220.40.121:80/LiveEdge/TBSEastUS/playlist.m3u8?token=b3ac95f0d2cda18af3c1f561c058a0c7 
+#EXTINF:-1,ESPN
+http://31.220.40.116:80/LiveEdge/ESPNUS/playlist.m3u8?token=0380159b1e58e143540b6b248c42e908
+#EXTINF:-1,ESPNU
+http://31.220.40.123:80/LiveEdge/ESPNUUS/playlist.m3u8?token=b6b0431fd7372bdc4ece2787d89f81c3 
+#EXTINF:-1,ESPNNEWS
+http://31.220.40.114:80/LiveEdge/ESPNewsUS/playlist.m3u8?token=7cb83b5bed3a04d13388bf493eea8fb9 
+#EXTINF:-1,ESPN2
+http://31.220.40.114:80/LiveEdge/ESPN2US/playlist.m3u8?token=7fb2c5cd01d1f75a806e7fad8cb75458 
+#EXTINF:-1,ESPN CLASSIC
+http://31.220.40.117:80/LiveEdge/ESPNClassic/playlist.m3u8?token=2fb16fdcb1edfa1a773697395c4b96fe 
+#EXTINF:-1,FOX SPORTS1
+http://31.220.40.116:80/LiveEdge/FoxSports1HD/playlist.m3u8?token=23acc4f32ab4a3598d08ae2bc77ab2bd 
+#EXTINF:-1,FOX SPORTS 2 
+http://31.220.41.107:80/LiveEdge/FoxSports2US/playlist.m3u8?token=2dbae361b7ae144f83ebb13a8f7daed4 
+#EXTINF:-1,MLB
+http://31.220.40.121:80/LiveEdge/MLBNetworkHD/playlist.m3u8?token=5e0502d82a1844c3f22795735a3c04c1  
+#EXTINF:-1,WWE
+http://31.220.40.115:80/LiveEdge/itvencore.stream/playlist.m3u8?token=b367056cf88bcc02e7c0b99192fd6960 
+#EXTINF:-1,NFL
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/NFLNetworkUS/playlist.m3u8?token=298156a80f3061ad09e93ce9733543ad 
+#EXTINF:-1,UFC
+http://31.220.40.108:80/LiveEdge/UFCNetwork2LA/playlist.m3u8?token=e4599d9b806661883f565f1fb136ba44 
+#EXTINF:-1,NHL
+http://31.220.40.119:80/LiveEdge/NHLNetworkHD/playlist.m3u8?token=75232b75d8b9d392dca493fe8b1eb94b     
+#EXTINF:-1,CBS SPORTS
+http://31.220.40.119:80/LiveEdge/CBSSportsNetworkUS/playlist.m3u8?token=ea2627ff8563dc8fae4bda0890e2b65d   
+#EXTINF:-1,NBCSPORTS
+http://31.220.40.108:80/LiveEdge/NBCSportNetworkUS/playlist.m3u8?token=5c42e8e4a973e0f6ada48f635bd920ef   
+#EXTINF:-1,SKY SPORTShttp://31.220.40.115:80/LiveEdge/SKYSPNews.stream/playlist.m3u8?token=261c6152d2cab175e9c6786c6e294d68     
+#EXTINF:-1,BEIN SPORTS
+http://31.220.40.116:80/LiveEdge/BeinSportUS/playlist.m3u8?token=b9be65d9a7e3cb57e7fcd8c3015e9a1e      
+#EXTINF:-1,NBA
+http://31.220.40.115:80/LiveEdge/NBATVUS/playlist.m3u8?token=47d5bbb519ffc40eaa2008b5feef6a4f     
+#EXTINF:-1,MTV
+http://31.220.41.107:80/LiveEdge/MTVUS/playlist.m3u8?token=6c0e4eced4c0a0a2ffde04520f902972 
+#EXTINF:-1,DISNEY JR
+http://31.220.40.121:80/LiveEdge/DisneyJrUS/playlist.m3u8?token=c0ca8a1194003632e95a0ac885f7435c     
+#EXTINF:-1,NICK
+http://31.220.40.121:80/LiveEdge/NickelodeonEastUS/playlist.m3u8?token=50e4dbc77217815dcaa5c75104ce4777   
+#EXTINF:-1,DISNEY CHANNEL
+http://31.220.40.118:80/LiveEdge/DisneyChannelEastHD/playlist.m3u8?token=134b3ce95b9c90d69eac7cae88a5b444     
+#EXTINF:-1,DISNEY XD
+http://31.220.40.114:80/LiveEdge/DisneyXDUS/playlist.m3u8?token=302d67dae1849d7fb4a6a01bc9bb489c      
+#EXTINF:-1,CARTOON NETWORK
+http://31.220.40.116:80/LiveEdge/cartoonuk.stream/playlist.m3u8?token=b9ae40b956c390a6f8afc5e6beac3df7     
+#EXTINF:-1,BABY FIRST 
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyFirstTVUS/playlist.m3u8?token=f80385d784175db843d9dda7b0748f63   
+#EXTINF:-1,ABC FAMILY 
+http://31.220.40.108:80/LiveEdge/ABCFamilyUS/playlist.m3u8?token=2f9b701a97230ce26eb54a34e5b80869     
+#EXTINF:-1,TEEN NICK
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/TeenNickUS/playlist.m3u8?token=f186cb301809ff856fc5447eb7fb4e12    
+#EXTINF:-1,DISCOVERY FAMILY
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryFamilyUS/playlist.m3u8?token=dac7ef6a2eccc364e28a4a3ecc1185c2     
+#EXTINF:-1,DISCOVERY CHANNEL
+http://31.220.41.103:80/LiveEdge/DiscoveryChannelUSAHD/playlist.m3u8?token=a3d4ca7d10fba0b714f30d451eb3adbd    
+#EXTINF:-1,ANIMAL PLANET
+http://31.220.40.105:80/LiveEdge/AnimalPlanetUS/playlist.m3u8?token=5de6e0528ca100df7b816b0d6aac1e8f    
+#EXTINF:-1,HALLMARK
+http://31.220.40.105:80/LiveEdge/OWNUS/playlist.m3u8?token=901954704e732e81845336a64e5e8e2f     
+#EXTINF:-1,NATGEO
+http://31.220.40.118:80/LiveEdge/NatGeoUS/playlist.m3u8?token=2e0ea64cf087c16ba351aec0fdc5c000 
+#EXTINF:-1,DISCOVERY TURBO
+http://31.220.40.118:80/LiveEdge/DiscovTurbo.stream/playlist.m3u8?token=f28ce737f0bcc4fdc3a64debe603c74a 
+#EXTINF:-1,OWN
+http://31.220.40.117:80/LiveEdge/HallmarkChannel/playlist.m3u8?token=45b3f42c05a1be37da9403a0bb8c9b2b  
+#EXTINF:-1,NAT WILD 
+http://31.220.40.118:80/LiveEdge/NatGeoWildUS/playlist.m3u8?token=32bfd2723e2c58f96a262dc6e0b8a46d      
+#EXTINF:-1,DMAX
+http://31.220.40.105:80/LiveEdge/dmax.stream/playlist.m3u8?token=c54cfe9429446dc2ab9f1a998aa82701    
+#EXTINF:-1,ID
+http://31.220.40.119:80/LiveEdge/IDUS/playlist.m3u8?token=6e4df1be85d9bd2165f83077ce09494a      
+#EXTINF:-1,SCIENCE
+http://31.220.40.116:80/LiveEdge/ScienceUS/playlist.m3u8?token=cc87bda9884180bbc5900f3097ebf32b   
+#EXTINF:-1,DESTINATION AMERICA 
+http://31.220.40.118:80/LiveEdge/DestinationAmericaUS/playlist.m3u8?token=4e956e87e17b19aada316f30f3b436ad 
+#EXTINF:-1,TRAVEL
+http://31.220.40.105:80/LiveEdge/travel.stream/playlist.m3u8?token=85a5290aa14a65eb3e78b01bbcf2db36 
+#EXTINF:-1,CHILLER
+http://31.220.40.117:80/LiveEdge/ChillerUS/playlist.m3u8?token=2303eeefff8884c47831345b24e06b73        
+#EXTINF:-1,CNN
+http://31.220.41.103:80/LiveEdge/CNNUSAHD/playlist.m3u8?token=570ebec656077b14895d382764d381d5   
+#EXTINF:-1,MSNBC
+http://31.220.40.115:80/LiveEdge/MSNBCUS/playlist.m3u8?token=6322c96674159d6273bf1214c7c91b81 
+#EXTINF:-1,CBS REALITY
+http://31.220.41.103:80/LiveEdge/cbsreality.stream/playlist.m3u8?token=fd9db9146bdb9b7d3b5a368502b4e955 
+#EXTINF:-1,CBS DRAMA
+http://31.220.40.100:80/LiveEdge/cbsdrama.stream/playlist.m3u8?token=482a2c6ba0cc6fa88821992eaa534263 
+#EXTINF:-1,CBS ACTION
+http://31.220.41.103:80/LiveEdge/cbsaction.stream/playlist.m3u8?token=13e2ad62d06ae2a409058cc370803935 
+#EXTINF:-1,HBO
+http://31.220.41.103:80/LiveEdge/HBOEastUS/playlist.m3u8?token=d3d75ea81d7277ec8721be322a330a66 
+#EXTINF:-1,HBO2
+http://31.220.41.111:80/LiveEdge/HBO2EastHD/playlist.m3u8?token=af5496b45a4133586640cffa1ff3d7e9 
+#EXTINF:-1,HBO SIGNATURE
+http://31.220.40.116:80/LiveEdge/HBOSignatureEastUS/playlist.m3u8?token=ccd20eb7cccbacd74ad55afb0e1df6dc 
+#EXTINF:-1,HBO WEST
+http://31.220.40.116:80/LiveEdge/HBOWestUS/playlist.m3u8?token=cbb24246a0474407ac3f1d9495194a84 
+#EXTINF:-1,CRIME INVESTIGATION 
+http://31.220.40.121:80/LiveEdge/CrimeInvNetUS/playlist.m3u8?token=6809dabb4df3427370ea3a55d66213be 
+#EXTINF:-1,HBO WEST2
+http://31.220.40.118:80/LiveEdge/HBO2WestUS/playlist.m3u8?token=846acbdae1d030bbbeb376665a356055 
+#EXTINF:-1,HBOFAM
+http://31.220.41.103:80/LiveEdge/HBOFamilyEastUS/playlist.m3u8?token=e15c86cbd5bd4deda38693020a133c19 
+#EXTINF:-1,TRUTV
+http://31.220.40.105:80/LiveEdge/dmax.stream/playlist.m3u8?token=c54cfe9429446dc2ab9f1a998aa82701 
+#EXTINF:-1,TRUTV
+http://31.220.40.105:80/LiveEdge/dmax.stream/playlist.m3u8?token=c54cfe9429446dc2ab9f1a998aa82701     
+      
