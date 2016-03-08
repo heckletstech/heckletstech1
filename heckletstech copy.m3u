@@ -1257,6 +1257,318 @@ http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/1
 http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
 
 
+4#EXTM3U
+
+USA: ABC News
+http://iptvsensation.ns01.biz:6500/live/test16021617/Ru21EuSmBT/2931.ts
+#EXTINF:-1,
+USA:CCNA International
+http://iptvsensation.ns01.biz:6500/live/test16021617/Ru21EuSmBT/2110.ts
+#EXTINF:-1,US: TSN 1
+http://ipsatpro.com:8000/live/argentina/argentina/1168.ts
+#EXTINF:-1,US: TSN 2
+http://ipsatpro.com:8000/live/argentina/argentina/1167.ts
+#EXTINF:-1,US: TSN 3
+http://ipsatpro.com:8000/live/argentina/argentina/1166.ts
+#EXTINF:-1,US: TSN 4
+http://ipsatpro.com:8000/live/argentina/argentina/1165.ts
+#EXTINF:-1,US: TSN 5
+http://ipsatpro.com:8000/live/argentina/argentina/1164.ts
+#EXTINF:-1,US: Espan 1
+http://ipsatpro.com:8000/live/argentina/argentina/1163.ts
+#EXTINF:-1,US: Espan 2
+http://ipsatpro.com:8000/live/argentina/argentina/1162.ts
+#EXTINF:-1,US: Fox 1
+http://ipsatpro.com:8000/live/argentina/argentina/1161.ts
+#EXTINF:-1,US: Fox 2
+http://ipsatpro.com:8000/live/argentina/argentina/1160.ts
+#EXTINF:-1,US: London Live
+http://ipsatpro.com:8000/live/argentina/argentina/1159.ts
+#EXTINF:-1,US: ABC
+http://ipsatpro.com:8000/live/argentina/argentina/1158.ts
+#EXTINF:-1,US: NBCSN
+http://ipsatpro.com:8000/live/argentina/argentina/1170.ts
+#EXTINF:-1,US: starzcinema
+http://ipsatpro.com:8000/live/argentina/argentina/1169.ts
+#EXTINF:-1,US: Starz Encore
+http://ipsatpro.com:8000/live/argentina/argentina/1179.ts
+#EXTINF:-1,US: NBC
+http://ipsatpro.com:8000/live/argentina/argentina/1178.ts
+#EXTINF:-1,US: HBO Zone
+http://ipsatpro.com:8000/live/argentina/argentina/1174.ts
+#EXTINF:-1,US: HBO Signature
+http://ipsatpro.com:8000/live/argentina/argentina/1176.ts
+#EXTINF:-1,US: HBO East
+http://ipsatpro.com:8000/live/argentina/argentina/1177.ts
+#EXTINF:-1,US: HBO Comedy
+http://ipsatpro.com:8000/live/argentina/argentina/1175.ts
+#EXTINF:-1,US: TBS HD
+http://ipsatpro.com:8000/live/argentina/argentina/1171.ts
+#EXTINF:-1,US: FOX 47
+http://ipsatpro.com:8000/live/argentina/argentina/1173.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://ipsatpro.com:8000/live/argentina/argentina/1172.ts
+#EXTINF:-1,US: Bloomberg
+http://ipsatpro.com:8000/live/argentina/argentina/1180.ts
+#EXTINF:-1,US: Amazing Discoveries
+http://ipsatpro.com:8000/live/argentina/argentina/1181.ts1
+
+
+
+#EXTINF:-1,
+USA ABC News
+http://iptvbox.noip.us:9998/live/mile/skype/723.m3u8
+#EXTINF:-1,
+USA AMC
+http://iptvbox.noip.us:9998/live/mile/skype/724.m3u8
+#EXTINF:-1,
+USA Bein USA
+http://iptvbox.noip.us:9998/live/mile/skype/726.m3u8
+#EXTINF:-1,
+USA: Fox News
+http://iptvbox.noip.us:9998/live/mile/skype/727.m3u8
+#EXTINF:-1,
+USA CNBC
+http://iptvbox.noip.us:9998/live/mile/skype/730.m3u8
+#EXTINF:-1,
+USA ESPN 2
+http://iptvbox.noip.us:9998/live/mile/skype/732.m3u8
+#EXTINF:-1,
+USA ESPN USA
+http://iptvbox.noip.us:9998/live/mile/skype/733.m3u8
+#EXTINF:-1,
+USA NBA
+http://iptvbox.noip.us:9998/live/mile/skype/738.m3u8
+#EXTINF:-1,
+USA m3u8N 5
+http://iptvbox.noip.us:9998/live/mile/skype/756.m3u8
+#EXTINF:-1,
+USA m3u8N 4
+http://iptvbox.noip.us:9998/live/mile/skype/755.m3u8
+#EXTINF:-1,
+USA m3u8N 1
+http://iptvbox.noip.us:9998/live/mile/skype/752.m3u8
+#EXTINF:-1,
+USA m3u8N 3
+http://iptvbox.noip.us:9998/live/mile/skype/754.m3u8
+#EXTINF:-1,
+UK: SKY NEWS
+http://iptvbox.noip.us:9998/live/mile/skype/186.m3u8
+#EXTINF:-1,
+UK: True Movies1
+http://iptvbox.noip.us:9998/live/mile/skype/675.m3u8
+#EXTINF:-1,
+UK: True Movies 2
+http://iptvbox.noip.us:9998/live/mile/skype/680.m3u8
+#EXTINF:-1,
+UK: True Drama
+http://iptvbox.noip.us:9998/live/mile/skype/678.m3u8
+#EXTINF:-1,
+UK: Tiny Pop
+http://iptvbox.noip.us:9998/live/mile/skype/683.m3u8
+#EXTINF:-1,
+UK: Syfy UK
+http://iptvbox.noip.us:9998/live/mile/skype/676.m3u8
+#EXTINF:-1,
+UK: Sky Movies Modern HD
+http://iptvbox.noip.us:9998/live/mile/skype/674.m3u8
+#EXTINF:-1,
+UK: Nick JR
+http://iptvbox.noip.us:9998/live/mile/skype/681.m3u8
+#EXTINF:-1,
+UK: Movies-4men Uk
+http://iptvbox.noip.us:9998/live/mile/skype/679.m3u8
+#EXTINF:-1,
+UK: Film4 UK
+http://iptvbox.noip.us:9998/live/mile/skype/677.m3u8
+#EXTINF:-1,
+UK: Disney XD
+http://iptvbox.noip.us:9998/live/mile/skype/684.m3u8
+#EXTINF:-1,
+UK: Disney Channel UK
+http://iptvbox.noip.us:9998/live/mile/skype/682.m3u8
+#EXTINF:-1,
+UK: Cartoon Network
+http://iptvbox.noip.us:9998/live/mile/skype/685.m3u8
+#EXTINF:-1,
+UK:Watch
+http://iptvbox.noip.us:9998/live/mile/skype/187.m3u8
+#EXTINF:-1,
+UK:TCL HD
+http://iptvbox.noip.us:9998/live/mile/skype/188.m3u8
+#EXTINF:-1,
+UK:SKY-PREMIERE SPORT
+http://iptvbox.noip.us:9998/live/mile/skype/260.m3u8
+#EXTINF:-1,
+UK:Sky Sport News HQ
+http://iptvbox.noip.us:9998/live/mile/skype/190.m3u8
+#EXTINF:-1,
+UK:Sky Sport 5 HD
+http://iptvbox.noip.us:9998/live/mile/skype/191.m3u8
+#EXTINF:-1,
+UK:Sky Sport 4 SD
+http://iptvbox.noip.us:9998/live/mile/skype/193.m3u8
+#EXTINF:-1,
+UK:Sky Sport 4 HD
+http://iptvbox.noip.us:9998/live/mile/skype/194.m3u8
+#EXTINF:-1,
+UK:Sky Sport 3 SD
+http://iptvbox.noip.us:9998/live/mile/skype/195.m3u8
+#EXTINF:-1,
+UK:Sky Sport 3 HD
+http://iptvbox.noip.us:9998/live/mile/skype/196.m3u8
+#EXTINF:-1,
+UK:Sky Sport 2 SD
+http://iptvbox.noip.us:9998/live/mile/skype/197.m3u8
+#EXTINF:-1,
+UK:Sky Sport 2 HD
+http://iptvbox.noip.us:9998/live/mile/skype/198.m3u8
+#EXTINF:-1,
+UK:Sky Sport 1 SD
+http://iptvbox.noip.us:9998/live/mile/skype/199.m3u8
+#EXTINF:-1,
+UK:Sky Sport 1 HD
+http://iptvbox.noip.us:9998/live/mile/skype/200.m3u8
+#EXTINF:-1,
+UK: Sport News
+http://iptvbox.noip.us:9998/live/mile/skype/635.m3u8
+#EXTINF:-1,
+UK: Sky Two
+http://iptvbox.noip.us:9998/live/mile/skype/638.m3u8
+#EXTINF:-1,
+UK: BT-Bm3u8port2
+http://iptvbox.noip.us:9998/live/mile/skype/302.m3u8
+#EXTINF:-1,
+UK:BT-Sports1
+http://iptvbox.noip.us:9998/live/mile/skype/700.m3u8
+#EXTINF:-1,
+UK: SKY ONE
+http://iptvbox.noip.us:9998/live/mile/skype/639.m3u8
+#EXTINF:-1,
+UK: Sky Gream3u8
+http://iptvbox.noip.us:9998/live/mile/skype/633.m3u8
+#EXTINF:-1,
+UK: Nicktoons
+http://iptvbox.noip.us:9998/live/mile/skype/625.m3u8
+#EXTINF:-1,
+UK: MOVIES ACTION
+http://iptvbox.noip.us:9998/live/mile/skype/634.m3u8
+#EXTINF:-1,
+UK: ID
+http://iptvbox.noip.us:9998/live/mile/skype/627.m3u8
+#EXTINF:-1,
+UK: Fox
+http://iptvbox.noip.us:9998/live/mile/skype/632.m3u8
+#EXTINF:-1,
+UK: Drama
+http://iptvbox.noip.us:9998/live/mile/skype/636.m3u8
+#EXTINF:-1,
+UK: Disney Junior
+http://iptvbox.noip.us:9998/live/mile/skype/628.m3u8
+#EXTINF:-1,
+UK: DISCOVERY HISTORY
+http://iptvbox.noip.us:9998/live/mile/skype/629.m3u8
+#EXTINF:-1,
+UK: ANIMAL PLANET
+http://iptvbox.noip.us:9998/live/mile/skype/630.m3u8
+#EXTINF:-1,
+UK: Aliens
+http://iptvbox.noip.us:9998/live/mile/skype/637.m3u8
+#EXTINF:-1,
+UK: Alibi
+http://iptvbox.noip.us:9998/live/mile/skype/631.m3u8
+#EXTINF:-1,
+UK: Sky Movies Thriller
+http://iptvbox.noip.us:9998/live/mile/skype/615.m3u8
+#EXTINF:-1,
+UK: Sky Movies Sci-Fi & Horror
+http://iptvbox.noip.us:9998/live/mile/skype/616.m3u8
+#EXTINF:-1,
+UK: Sky Movies Action & Adventure
+http://iptvbox.noip.us:9998/live/mile/skype/614.m3u8
+#EXTINF:-1,
+UK:Sky Movies Thriller
+http://iptvbox.noip.us:9998/live/mile/skype/201.m3u8
+#EXTINF:-1,
+UK:Sky Movies Select
+http://iptvbox.noip.us:9998/live/mile/skype/202.m3u8
+#EXTINF:-1,
+UK:Sky Movies Premiere
+http://iptvbox.noip.us:9998/live/mile/skype/204.m3u8
+#EXTINF:-1,
+UK:Sky Movies Gream3u8
+http://iptvbox.noip.us:9998/live/mile/skype/205.m3u8
+#EXTINF:-1,
+UK:Sky Movies Family
+http://iptvbox.noip.us:9998/live/mile/skype/206.m3u8
+#EXTINF:-1,
+UK:Sky Movies Drama & Romance
+http://iptvbox.noip.us:9998/live/mile/skype/207.m3u8
+#EXTINF:-1,
+UK:EuroSport 1 HD
+http://iptvbox.noip.us:9998/live/mile/skype/509.m3u8
+#EXTINF:-1,
+UK:BBC Two HD
+http://iptvbox.noip.us:9998/live/mile/skype/505.m3u8
+#EXTINF:-1,
+UK:BBC Three HD
+http://iptvbox.noip.us:9998/live/mile/skype/506.m3u8
+#EXTINF:-1,
+UK:BBC One HD
+http://iptvbox.noip.us:9998/live/mile/skype/507.m3u8
+#EXTINF:-1,
+UK:BBC Four HD
+http://iptvbox.noip.us:9998/live/mile/skype/508.m3u8
+#EXTINF:-1,
+UK:Sky Movies Disney
+http://iptvbox.noip.us:9998/live/mile/skype/208.m3u8
+#EXTINF:-1,
+UK:Sky Movies Comedy
+http://iptvbox.noip.us:9998/live/mile/skype/209.m3u8
+#EXTINF:-1,
+UK:Sky Movies Action
+http://iptvbox.noip.us:9998/live/mile/skype/210.m3u8
+#EXTINF:-1,
+UK:Sky Movie Sci-Fi & horror
+http://iptvbox.noip.us:9998/live/mile/skype/211.m3u8
+#EXTINF:-1,
+UK:Sky Living
+http://iptvbox.noip.us:9998/live/mile/skype/212.m3u8
+#EXTINF:-1,
+UK:Sky Atlantic
+http://iptvbox.noip.us:9998/live/mile/skype/213.m3u8
+#EXTINF:-1,
+UK:Sky Art 1
+http://iptvbox.noip.us:9998/live/mile/skype/214.m3u8
+#EXTINF:-1,
+UK:Sky 1
+http://iptvbox.noip.us:9998/live/mile/skype/216.m3u8
+#EXTINF:-1,
+UK:RTE Two HD
+http://iptvbox.noip.us:9998/live/mile/skype/218.m3u8
+#EXTINF:-1,
+UK:Sky Movies ShowCase
+http://iptvbox.noip.us:9998/live/mile/skype/623.m3u8
+#EXTINF:-1,
+UK:Discovery Science HD
+http://iptvbox.noip.us:9998/live/mile/skype/624.m3u8
+#EXTINF:-1,
+UK:RTE One
+http://iptvbox.noip.us:9998/live/mile/skype/219.m3u8
+#EXTINF:-1,
+UK:Premier Sport
+http://iptvbox.noip.us:9998/live/mile/skype/220.m3u8
+#EXTINF:-1,
+UK:NICKLEODON
+http://iptvbox.noip.us:9998/live/mile/skype/221.m3u8
+#EXTINF:-1,
+UK:National Geographic
+http://iptvbox.noip.us:9998/live/mile/skype/222.m3u8
+#EXTINF:-1,
+UK:Nat Geo Wild
+http://iptvbox.noip.us:9998/live/mile/skype/223.m3u8
+
+
 
 
 
