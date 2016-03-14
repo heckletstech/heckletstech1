@@ -101,6 +101,10 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
+
+
+
+
 #EXTINF:-1,Syfy Channel
 http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
 #EXTINF:-1,Universal 
@@ -343,6 +347,49 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
 #EXTINF:-1,[COLOR orange]---SPORTS---[/COLOR]
 http://?
+
+
+EXTINF:-1,ss1
+http://62.210.162.88:80/live/sport_uk130/152813032016/2147.ts
+#EXTINF:-1,ss2
+http://62.210.162.88:80/live/sport_uk130/152813032016/2146.ts
+#EXTINF:-1,ss3
+http://62.210.162.88:80/live/sport_uk130/152813032016/2148.ts
+#EXTINF:-1,ss4
+http://62.210.162.88:80/live/sport_uk130/152813032016/2149.ts
+#EXTINF:-1,ss5
+http://62.210.162.88:80/live/sport_uk130/152813032016/2150.ts
+#EXTINF:-1,Al Jazeera
+http://62.65.140.151:80/session/f48f27d2-e938-11e5-a9dc-005056bc49ac/nvnv5a/2/4013/2290000/index.m3u8?token=b86c133e8792fffcfcaf1049f978e150_1455180021_1455180021&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,BBC1 HD
+http://62.65.140.217:80/session/f83f961e-e938-11e5-9eb8-005056bc1a52/nvnv5a/2/4017/4240000/index.m3u8?token=c91c60b9b26118913e53c3295ccc88d9_1455180024_1455180024&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,BBC2 HD
+http://62.65.140.154:80/session/f8f4c82c-e938-11e5-beb1-005056bc06d1/nvnv5a/2/4012/4240000/index.m3u8?token=05f366eaa133c37f630916831ab8f387_1455180025_1455180025&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,BBC3 HD
+http://62.65.140.216:80/session/f9e3c85a-e938-11e5-9eb8-005056bc1a52/nvnv5a/2/4008/2290000/index.m3u8?token=3a0a7255f63c2f28299c40b2587b8987_1455180026_1455180026&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,BBC World News
+http://62.65.140.154:80/session/faaeae4e-e938-11e5-a43c-005056bc1a52/nvnv5a/2/4003/2290000/index.m3u8?token=25f14f13087ab4986c1dad674d728c09_1455180026_1455180026&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,Channel 4 HD
+http://62.65.140.154:80/session/faaeae4e-e938-11e5-a43c-005056bc1a52/nvnv5a/2/4003/2290000/index.m3u8?token=0ab22ea3a65158f1c9fc07fbf0660eb0_1455180031_1455180031&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,CNBC
+http://62.65.140.151:80/session/00e4acdc-e939-11e5-91fc-005056bc49ac/nvnv5a/2/4001/2290000/index.m3u8?token=0369a75d8b4d95e82bf71d8de295716d_1455180033_1455180033&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,CNN
+http://62.65.140.155:80/session/01954aa6-e939-11e5-9ef6-005056bc06d1/nvnv5a/2/4002/2290000/index.m3u8?token=2569eae7766a9b87577e57619e30ecde_1455180033_1455180033&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,EuroNews English
+http://62.65.140.214:80/session/0497f51e-e939-11e5-b7a6-005056bc06d1/nvnv5a/1/104903/2290000/index.m3u8?token=f30713a590fe803b481e77d0815c1d0f_1455180037_1455180037&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,Film4
+http://62.65.140.155:80/session/0891b5a6-e939-11e5-91fc-005056bc49ac/nvnv5a/2/4023/2290000/index.m3u8?token=1889101d4b248952d8c850902918e867_1455180042_1455180042&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,ITV1 HD
+http://62.65.140.149:80/session/0f6e605e-e939-11e5-a9dc-005056bc49ac/nvnv5a/2/4018/4240000/index.m3u8?token=2284f1089182c673c6bb8689a4f177d1_1455180048_1455180048&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,ITV2 HD
+http://62.65.140.215:80/session/1050748a-e939-11e5-a5c9-005056bc1a52/nvnv5a/2/4005/2290000/index.m3u8?token=592d2e98cf47c3cad25e29bc79603ef2_1455180049_1455180049&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,ITV3 HD
+http://62.65.140.153:80/session/112d9a36-e939-11e5-beb1-005056bc06d1/nvnv5a/2/4025/2290000/index.m3u8?token=b4c9214619e1cb8
+
+
+
+
+
 #EXTINF:-1,btsport2hd
 http://37.187.251.79:8080/FREE/sPORTs/6.ch
 #EXTINF:-1,Btsport1
