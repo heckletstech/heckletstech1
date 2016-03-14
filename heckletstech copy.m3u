@@ -39,6 +39,67 @@ http://167.114.102.27/live/d075SXVW_ncyDxjpkJdLBA/1457938839/b11cc9ad84502b27a63
 http://167.114.102.27/live/rnjjYnMAHV6k_dI86K_zBw/1457938844/d61960e75b1a90a23ebfb02f0bb46678.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
 
 
+#EXTINF:-1, PAC-12 Arizona HD 
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area HD
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area 
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1, PAC-12 Los Angeles HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1, PAC-12 Mountain HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 1
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 2
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 3
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 Oregon HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1, PAC-12 Arizona HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1, PAC-12 Los Angeles HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1, PAC-12 Mountain HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Mountain)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1, PAC-12 Arizona HD 1
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Arizona HD 2
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area HD 1
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area HD 2
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1, PAC-12 Los Angeles HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1, PAC-12 Mountain HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 1
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 2
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 Oregon HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1, PAC-12 Washington HD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
 
 #EXTINF:-1,Syfy Channel
 http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
