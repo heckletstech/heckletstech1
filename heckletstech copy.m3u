@@ -3,470 +3,91 @@
 http://?
 
 
-#EXTINF:-1,[COLOR orange]---ENGLISH---[/COLOR]
-http://?
-
-#EXTINF:-1, AMC
-http://167.114.102.27/live/7VD3lVa8ZkkJsoajTzfVPQ/1457938701/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-
-#EXTINF:-1, A&E
-http://167.114.102.27/live/gkhDA2eyVPAN-MO5GbvvoA/1457938683/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-
-
-#EXTINF:-1, CARTOON NETWORK 
-http://167.114.102.27/live/duhnFIwdHXMUFsuN4pooQw/1457938777/8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-
-#EXTINF:-1, COMDEDY CENTRAL
-http://167.114.102.27/live/j-wKcm3OpzE1sG22DXHX3g/1457938789/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-#EXTINF:-1, DISCOVERY CHANNEL 
-http://167.114.102.27/live/_I8nzFrMkKyVeHFnxFQ_Ug/1457938805/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-
-#EXTINF:-1, ESPN
-http://167.114.102.27/live/yIFj1raex_wk2p6WKkifTQ/1457938751/7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-#EXTINF:-1, HISTORY
- http://167.114.102.27/live/yXuIRH6nUelzfF9s1QBQQA/1457938828/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-
-#EXTINF:-1, NAT GEO
-http://167.114.102.27/live/hTtoRCHSBu7DOmU960-7Fg/1457938768/e08dd4627a3cf468a30d8a357956d6f8.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-#EXTINF:-1, NICK
-http://167.114.102.27/live/d075SXVW_ncyDxjpkJdLBA/1457938839/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-#EXTINF:-1, CW
-http://167.114.102.27/live/rnjjYnMAHV6k_dI86K_zBw/1457938844/d61960e75b1a90a23ebfb02f0bb46678.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-
-#EXTINF:-1, PAC-12 Arizona HD 
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1, PAC-12 Bay Area HD
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1, PAC-12 Bay Area 
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1, PAC-12 Los Angeles HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1, PAC-12 Mountain HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1, PAC-12 National HD 1
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1, PAC-12 National HD 2
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1, PAC-12 National HD 3
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1, PAC-12 Oregon HD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1, PAC-12 Arizona HD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1, PAC-12 Bay Area HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1, PAC-12 Los Angeles HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1, PAC-12 Mountain HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1, PAC-12 Net. (National)
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1, PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1, PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1, PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1, PAC-12 Net. (Mountain)
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1, PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1, PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8
-#EXTINF:-1, PAC-12 Arizona HD 1
-http://www.xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1, PAC-12 Arizona HD 2
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1, PAC-12 Bay Area HD 1
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1, PAC-12 Bay Area HD 2
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1, PAC-12 Los Angeles HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1, PAC-12 Mountain HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1, PAC-12 National HD 1
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1, PAC-12 National HD 2
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1, PAC-12 Oregon HD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1, PAC-12 Washington HD
-http://xrxs.net/video/live-p12wash-4728.m3u8
-
-
-
-
-
-
-#EXTINF:-1,Syfy Channel
-http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
-#EXTINF:-1,Universal 
-http://iptvbox.noip.us:9998/live/atik/atik/1037.m3u8
-#EXTINF:-1,Fox
-http://iptvbox.noip.us:9998/live/atik/atik/632.m3u8
-#EXTINF:-1,Discovery Turbo
-http://iptvbox.noip.us:9998/live/atik/atik/1040.m3u8
-#EXTINF:-1,Discovery Channel
-http://iptvbox.noip.us:9998/live/atik/atik/1041.m3u8
-#EXTINF:-1,Animal Planet
-http://iptvbox.noip.us:9998/live/atik/atik/630.m3u8
-#EXTINF:-1,National Geographic
-http://iptvbox.noip.us:9998/live/atik/atik/222.m3u8
-#EXTINF:-1,Nat geo wild
-http://iptvbox.noip.us:9998/live/atik/atik/474.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://iptvbox.noip.us:9998/live/atik/atik/223.m3u8
-#EXTINF:-1,Discovery Science 
-http://iptvbox.noip.us:9998/live/atik/atik/624.m3u8
-#EXTINF:-1,DISCOVERY HISTORY
-http://iptvbox.noip.us:9998/live/atik/atik/629.m3u8
-#EXTINF:-1,NICKLEODON
-http://iptvbox.noip.us:9998/live/atik/atik/221.m3u8
-#EXTINF:-1,Disney XD
-http://iptvbox.noip.us:9998/live/atik/atik/684.m3u8
-#EXTINF:-1,Disney Junior
-http://iptvbox.noip.us:9998/live/atik/atik/628.m3u8
-#EXTINF:-1,Disney Channel 
-http://iptvbox.noip.us:9998/live/atik/atik/682.m3u8
-#EXTINF:-1,Cartoon Network US
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://iptvbox.noip.us:9998/live/atik/atik/685.m3u8
-#EXTINF:-1,Nicktoons
-http://iptvbox.noip.us:9998/live/atik/atik/625.m3u8
-#EXTINF:-1,Nick JR
-http://iptvbox.noip.us:9998/live/atik/atik/681.m3u8
-#EXTINF:-1,MTV 
-http://iptvbox.noip.us:9998/live/atik/atik/1361.m3u8
-#EXTINF:-1,Mtv Music
-http://iptvbox.noip.us:9998/live/atik/atik/962.m3u8
-#EXTINF:-1,Mtv Rocks
-http://iptvbox.noip.us:9998/live/atik/atik/1372.m3u8
-#EXTINF:-1,iny Pop
-http://iptvbox.noip.us:9998/live/atik/atik/683.m3u8
-#EXTINF:-1,Sky Movies Action
-http://iptvbox.noip.us:9998/live/atik/atik/210.m3u8
-#EXTINF:-1,Sky Movies Thriller
-http://iptvbox.noip.us:9998/live/atik/atik/201.m3u8
-#EXTINF:-1,Sky Movies ShowCase
-http://iptvbox.noip.us:9998/live/atik/atik/623.m3u8
-#EXTINF:-1,Sky Movies Select
-http://iptvbox.noip.us:9998/live/atik/atik/202.m3u8
-#EXTINF:-1,Sky Movies Premiere
-http://iptvbox.noip.us:9998/live/atik/atik/204.m3u8
-#EXTINF:-1,Sky Movies Greats
-http://iptvbox.noip.us:9998/live/atik/atik/205.m3u8
-#EXTINF:-1,Sky Movies Family
-http://iptvbox.noip.us:9998/live/atik/atik/206.m3u8
-#EXTINF:-1,Sky Movies Drama & Romance
-http://iptvbox.noip.us:9998/live/atik/atik/207.m3u8
-#EXTINF:-1,Sky Movies Disney
-http://iptvbox.noip.us:9998/live/atik/atik/208.m3u8
-#EXTINF:-1,Sky Movie Sci-Fi & horror
-http://iptvbox.noip.us:9998/live/atik/atik/211.m3u8
-#EXTINF:-1,True Drama
-http://iptvbox.noip.us:9998/live/atik/atik/678.m3u8
-#EXTINF:-1,Sky Movies Thriller
-http://iptvbox.noip.us:9998/live/atik/atik/615.m3u8
-#EXTINF:-1,Sky Movies Sci-Fi & Horror
-http://iptvbox.noip.us:9998/live/atik/atik/616.m3u8
-#EXTINF:-1,Sky Movies Modern HD
-http://iptvbox.noip.us:9998/live/atik/atik/674.m3u8
-#EXTINF:-1,Sky Movies Action & Adventure
-http://iptvbox.noip.us:9998/live/atik/atik/614.m3u8
-#EXTINF:-1,Movies-4men 
-http://iptvbox.noip.us:9998/live/atik/atik/679.m3u8
-#EXTINF:-1,True Movies1
-http://iptvbox.noip.us:9998/live/atik/atik/675.m3u8
-#EXTINF:-1,True Movies 2
-http://iptvbox.noip.us:9998/live/atik/atik/680.m3u8
-#EXTINF:-1,Sky Movies Comedy
-http://iptvbox.noip.us:9998/live/atik/atik/209.m3u8
-#EXTINF:-1,Drama
-http://iptvbox.noip.us:9998/live/atik/atik/636.m3u8
-#EXTINF:-1,Aliens
-http://iptvbox.noip.us:9998/live/atik/atik/637.m3u8
-#EXTINF:-1,MOVIES ACTION
-http://iptvbox.noip.us:9998/live/atik/atik/634.m3u8
-#EXTINF:-1,Film4 
-http://iptvbox.noip.us:9998/live/atik/atik/677.m3u8
-#EXTINF:-1,CBS DRAMA
-http://iptvbox.noip.us:9998/live/atik/atik/1607.m3u8
-#EXTINF:-1,CBS ACTION
-http://iptvbox.noip.us:9998/live/atik/atik/1608.m3u8
-#EXTINF:-1,CBS REALITY
-http://iptvbox.noip.us:9998/live/atik/atik/1606.m3u8
-#EXTINF:-1,BBC One 
-http://iptvbox.noip.us:9998/live/atik/atik/507.m3u8
-#EXTINF:-1,BBC Two 
-http://iptvbox.noip.us:9998/live/atik/atik/505.m3u8
-#EXTINF:-1,BBC Three 
-http://iptvbox.noip.us:9998/live/atik/atik/506.m3u8
-#EXTINF:-1,BBC Four 
-http://iptvbox.noip.us:9998/live/atik/atik/508.m3u8
-#EXTINF:-1,Gold
-http://iptvbox.noip.us:9998/live/atik/atik/1000.m3u8
-#EXTINF:-1,CNN
-http://iptvbox.noip.us:9998/live/atik/atik/1609.m3u8
-#EXTINF:-1,TCL 
-http://iptvbox.noip.us:9998/live/atik/atik/188.m3u8
-#EXTINF:-1,ID
-http://iptvbox.noip.us:9998/live/atik/atik/627.m3u8
-#EXTINF:-1,FOOD Network
-http://iptvbox.noip.us:9998/live/atik/atik/570.m3u8
-#EXTINF:-1,Vevo 3
-http://iptvbox.noip.us:9998/live/atik/atik/965.m3u8
-#EXTINF:-1,Vevo 2
-http://iptvbox.noip.us:9998/live/atik/atik/964.m3u8
-#EXTINF:-1,Vevo 1
-http://iptvbox.noip.us:9998/live/atik/atik/963.m3u8
-#EXTINF:-1,VEVO_2
-http://iptvbox.noip.us:9998/live/atik/atik/514.m3u8
-#EXTINF:-1,VEVO_1
-http://iptvbox.noip.us:9998/live/atik/atik/513.m3u8
-#EXTINF:-1,NBC LIVE EXTRA 1
-http://iptvbox.noip.us:9998/live/atik/atik/797.m3u8
-#EXTINF:-1,NBC LIVE EXTRA 2
-http://iptvbox.noip.us:9998/live/atik/atik/798.m3u8
-#EXTINF:-1,NBC LIVE EXTRA  3
-http://iptvbox.noip.us:9998/live/atik/atik/799.m3u8
-#EXTINF:-1,NBC LIVE EXTRA  4
-http://iptvbox.noip.us:9998/live/atik/atik/800.m3u8
-#EXTINF:-1,NBC LIVE EXTRA 5
-http://iptvbox.noip.us:9998/live/atik/atik/801.m3u8
-#EXTINF:-1,ESPN 1
-http://iptvbox.noip.us:9998/live/atik/atik/733.m3u8
-#EXTINF:-1,ESPN 2
-http://iptvbox.noip.us:9998/live/atik/atik/732.m3u8
-#EXTINF:-1,FOX Sports 2
-http://iptvbox.noip.us:9998/live/atik/atik/1385.m3u8
-#EXTINF:-1,FOX Sports 1
-http://iptvbox.noip.us:9998/live/atik/atik/1384.m3u8
-#EXTINF: 0, TV MOTORES
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3474.m3u8
-#EXTINF:-1,Fox News
-http://iptvbox.noip.us:9998/live/atik/atik/727.m3u8
-#EXTINF:-1,NBA
-http://iptvbox.noip.us:9998/live/atik/atik/738.m3u8
-#EXTINF:-1,CNBC
-http://iptvbox.noip.us:9998/live/atik/atik/730.m3u8
-#EXTINF:-1,Bein 
-http://iptvbox.noip.us:9998/live/atik/atik/726.m3u8
-#EXTINF:-1,AMC
-http://iptvbox.noip.us:9998/live/atik/atik/724.m3u8
-#EXTINF:-1,ABC News
-http://iptvbox.noip.us:9998/live/atik/atik/723.m3u8
-#EXTINF: 0, FOX NEWS
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3476.m3u8
-
-
-#EXTINF:-1,[COLOR orange]---ESPANOL---[/COLOR]
-http://?
-#EXTINF:-1,Fox 
-http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
-#EXTINF:-1,Discovery Channel
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Travel Channel
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:-1,National Geographic
-http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
-#EXTINF:-1,Canal Estrenos
-http://iptvbox.noip.us:9998/live/atik/atik/587.m3u8
-#EXTINF:-1,Canal Series
-http://iptvbox.noip.us:9998/live/atik/atik/268.m3u8
-#EXTINF:-1,Canal  DCine
-http://iptvbox.noip.us:9998/live/atik/atik/261.m3u8
-#EXTINF:-1,Canal  Comedia
-http://iptvbox.noip.us:9998/live/atik/atik/275.m3u8
-#EXTINF:-1,Canal  Accion
-http://iptvbox.noip.us:9998/live/atik/atik/262.m3u8
-#EXTINF:-1,ES.Canal Xtra
-http://iptvbox.noip.us:9998/live/atik/atik/586.m3u8
-#EXTINF:-1,Hollywood
-http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
-#EXTINF:-1,Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,Ta Te Ti
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Canal Deportes
-http://iptvbox.noip.us:9998/live/atik/atik/588.m3u8
-#EXTINF:-1,Canal  Deportes
-http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
-#EXTINF:-1,BeIN SporTS
-http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
-#EXTINF:-1,Canal  Partidazo
-http://iptvbox.noip.us:9998/live/atik/atik/858.m3u8
-#EXTINF:-1,Canal Futbol 
-http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
-#EXTINF:-1,Canal Futbol 2
-http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
-#EXTINF:-1,Canal  Deportes
-http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
-#EXTINF:-1,Canal  Liga
-http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
-#EXTINF:-1,Canal  Liga 2
-http://iptvbox.noip.us:9998/live/atik/atik/854.m3u8
-#EXTINF: 0, REAL MADRID
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3466.m3u8
-#EXTINF: 0, TV TOROS
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3450.m3u8
-
-
-
-
-
-#EXTINF:-1,[COLOR orange]---ADULT---[/COLOR]
-http://?
-#EXTINF:-1,JAZMIN TV
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-#EXTINF:-1, PASSION XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1, PlayBoy 
-http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8
-#EXTINF:-1,[COLOR orange]---MUSIC---[/COLOR]
-http://?
-#EXTINF:-1,HIT TV
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Q Musica
-mms://streamqm.uigc.net/qmusica
-#EXTINF:-1,Quiero Musica
-mms://streamqm.uigc.net/qmusica
-#EXTINF:-1,Musica SI
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-
-
-
-#EXTINF:-1,[COLOR orange]---SPORTS---[/COLOR]
-http://?
-
-
-EXTINF:-1,ss1
-http://62.210.162.88:80/live/sport_uk130/152813032016/2147.ts
-#EXTINF:-1,ss2
-http://62.210.162.88:80/live/sport_uk130/152813032016/2146.ts
-#EXTINF:-1,ss3
-http://62.210.162.88:80/live/sport_uk130/152813032016/2148.ts
-#EXTINF:-1,ss4
-http://62.210.162.88:80/live/sport_uk130/152813032016/2149.ts
-#EXTINF:-1,ss5
-http://62.210.162.88:80/live/sport_uk130/152813032016/2150.ts
-#EXTINF:-1,Al Jazeera
-http://62.65.140.151:80/session/f48f27d2-e938-11e5-a9dc-005056bc49ac/nvnv5a/2/4013/2290000/index.m3u8?token=b86c133e8792fffcfcaf1049f978e150_1455180021_1455180021&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,BBC1 HD
-http://62.65.140.217:80/session/f83f961e-e938-11e5-9eb8-005056bc1a52/nvnv5a/2/4017/4240000/index.m3u8?token=c91c60b9b26118913e53c3295ccc88d9_1455180024_1455180024&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,BBC2 HD
-http://62.65.140.154:80/session/f8f4c82c-e938-11e5-beb1-005056bc06d1/nvnv5a/2/4012/4240000/index.m3u8?token=05f366eaa133c37f630916831ab8f387_1455180025_1455180025&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,BBC3 HD
-http://62.65.140.216:80/session/f9e3c85a-e938-11e5-9eb8-005056bc1a52/nvnv5a/2/4008/2290000/index.m3u8?token=3a0a7255f63c2f28299c40b2587b8987_1455180026_1455180026&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,BBC World News
-http://62.65.140.154:80/session/faaeae4e-e938-11e5-a43c-005056bc1a52/nvnv5a/2/4003/2290000/index.m3u8?token=25f14f13087ab4986c1dad674d728c09_1455180026_1455180026&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,Channel 4 HD
-http://62.65.140.154:80/session/faaeae4e-e938-11e5-a43c-005056bc1a52/nvnv5a/2/4003/2290000/index.m3u8?token=0ab22ea3a65158f1c9fc07fbf0660eb0_1455180031_1455180031&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,CNBC
-http://62.65.140.151:80/session/00e4acdc-e939-11e5-91fc-005056bc49ac/nvnv5a/2/4001/2290000/index.m3u8?token=0369a75d8b4d95e82bf71d8de295716d_1455180033_1455180033&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,CNN
-http://62.65.140.155:80/session/01954aa6-e939-11e5-9ef6-005056bc06d1/nvnv5a/2/4002/2290000/index.m3u8?token=2569eae7766a9b87577e57619e30ecde_1455180033_1455180033&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,EuroNews English
-http://62.65.140.214:80/session/0497f51e-e939-11e5-b7a6-005056bc06d1/nvnv5a/1/104903/2290000/index.m3u8?token=f30713a590fe803b481e77d0815c1d0f_1455180037_1455180037&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,Film4
-http://62.65.140.155:80/session/0891b5a6-e939-11e5-91fc-005056bc49ac/nvnv5a/2/4023/2290000/index.m3u8?token=1889101d4b248952d8c850902918e867_1455180042_1455180042&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,ITV1 HD
-http://62.65.140.149:80/session/0f6e605e-e939-11e5-a9dc-005056bc49ac/nvnv5a/2/4018/4240000/index.m3u8?token=2284f1089182c673c6bb8689a4f177d1_1455180048_1455180048&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,ITV2 HD
-http://62.65.140.215:80/session/1050748a-e939-11e5-a5c9-005056bc1a52/nvnv5a/2/4005/2290000/index.m3u8?token=592d2e98cf47c3cad25e29bc79603ef2_1455180049_1455180049&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,ITV3 HD
-http://62.65.140.153:80/session/112d9a36-e939-11e5-beb1-005056bc06d1/nvnv5a/2/4025/2290000/index.m3u8?token=b4c9214619e1cb8
-
-
-
-
-
-#EXTINF:-1,btsport2hd
-http://37.187.251.79:8080/FREE/sPORTs/6.ch
-#EXTINF:-1,Btsport1
-http://37.187.251.79:8080/FREE/sPORTs/84.ch
-#EXTINF:-1,ESPN2latin
-http://37.187.251.79:8080/FREE/sPORTs/15.ch
-#EXTINF:-1,ESPNLatino
-http://37.187.251.79:8080/FREE/sPORTs/18.ch
-#EXTINF:-1,ESPN3latin
-http://37.187.251.79:8080/FREE/sPORTs/13.ch
-#EXTINF:-1,ESPNpluslatin
-http://37.187.251.79:8080/FREE/sPORTs/12.ch
-#EXTINF:-1,EurosportEng
-http://37.187.251.79:8080/FREE/sPORTs/43.ch
-#EXTINF:-1,Eurosport2
-http://37.187.251.79:8080/FREE/sPORTs/25.ch
-#EXTINF:-1,FightSports
-http://37.187.251.79:8080/FREE/sPORTs/131.ch
-#EXTINF:-1,CZSPORT0
-http://37.187.251.79:8080/FREE/sPORTs/134.ch
-#EXTINF:-1,FOX2Latin
-http://37.187.251.79:8080/FREE/sPORTs/11.ch
-#EXTINF:-1,FoxSportVivo
-http://37.187.251.79:8080/FREE/sPORTs/14.ch
-#EXTINF:-1,FoxSports
-http://37.187.251.79:8080/FREE/sPORTs/20.ch
-#EXTINF:-1,MBCPROSPORT1
-http://37.187.251.79:8080/FREE/sPORTs/87.ch
-#EXTINF:-1,MBCPROSPORT2
-http://37.187.251.79:8080/FREE/sPORTs/88.ch
-#EXTINF:-1,motorsport
-http://37.187.251.79:8080/FREE/sPORTs/26.ch
-#EXTINF:-1,MotorstvHD
-http://37.187.251.79:8080/FREE/sPORTs/60.ch
-#EXTINF:-1,NBAversusHD
-http://37.187.251.79:8080/FREE/sPORTs/135.ch
-#EXTINF:-1,NFLNetwork
-http://37.187.251.79:8080/FREE/sPORTs/4.ch
-#EXTINF:-1,NFLSD
-http://37.187.251.79:8080/FREE/sPORTs/133.ch
-#EXTINF:-1,skysport1
-http://37.187.251.79:8080/FREE/sPORTs/86.ch
-#EXTINF:-1,skysport1DE
-http://37.187.251.79:8080/FREE/sPORTs/33.ch
-#EXTINF:-1,skysport2
-http://37.187.251.79:8080/FREE/sPORTs/75.ch
-#EXTINF:-1,skysport2DE
-http://37.187.251.79:8080/FREE/sPORTs/34.ch
-#EXTINF:-1,skysport3
-http://37.187.251.79:8080/FREE/sPORTs/76.ch
-#EXTINF:-1,skysport4
-http://37.187.251.79:8080/FREE/sPORTs/77.ch
-#EXTINF:-1,skysport5
-http://37.187.251.79:8080/FREE/sPORTs/74.ch
-#EXTINF:-1,Skysport3HD
-http://37.187.251.79:8080/FREE/sPORTs/5.ch
-#EXTINF:-1,SK3HD
-http://37.187.251.79:8080/FREE/sPORTs/146.ch
-#EXTINF:-1,CBSsportnetwork
-http://37.187.251.79:8080/FREE/sPORTs/145.ch
-#EXTINF:-1,premiersports
-http://37.187.251.79:8080/FREE/sPORTs/196.ch
-#EXTINF:-1,boxnation
-http://37.187.251.79:8080/FREE/sPORTs/213.ch
-#EXTINF:-1,Btsportespn
-http://37.187.251.79:8080/FREE/sPORTs/202.ch
-#EXTINF:-1,chelseaTV
-http://37.187.251.79:8080/FREE/sPORTs/221.ch
-#EXTINF:-1,BBCOne
-http://37.187.251.79:8080/FREE/sPORTs/278.ch
-#EXTINF:-1,BBCTwo
-http://37.187.251.79:8080/FREE/sPORTs/279.ch
-#EXTINF:-1,TYCSPORTSARGENTINA
-http://37.187.251.79:8080/FREE/sPORTs/285.ch
-
-
-
-
-
-
+#EXTINF:-1,====&USA&====
+http://tv2iptv.com:8000/live/emad/123456/3578.ts
+#EXTINF:-1,USA_|_WWE_HD
+http://tv2iptv.com:8000/live/emad/123456/3361.ts
+#EXTINF:-1,USA_|_TMN_4_MOVIE
+http://tv2iptv.com:8000/live/emad/123456/3362.ts
+#EXTINF:-1,USA_|_TMN_3_MOVIE
+http://tv2iptv.com:8000/live/emad/123456/3363.ts
+#EXTINF:-1,USA_|_TMN_2_MOVIE
+http://tv2iptv.com:8000/live/emad/123456/3364.ts
+#EXTINF:-1,USA_|_TMN_1_MOVIE
+http://tv2iptv.com:8000/live/emad/123456/3365.ts
+#EXTINF:-1,USA_|_TLC_HD
+http://tv2iptv.com:8000/live/emad/123456/3366.ts
+#EXTINF:-1,USA_|_Poker_Central
+http://tv2iptv.com:8000/live/emad/123456/3367.ts
+#EXTINF:-1,USA_|_PAC_12_WD_HD
+http://tv2iptv.com:8000/live/emad/123456/3369.ts
+#EXTINF:-1,USA_|_PAC-12_Network_HD
+http://tv2iptv.com:8000/live/emad/123456/3368.ts
+#EXTINF:-1,USA_|_NFL_HD
+http://tv2iptv.com:8000/live/emad/123456/3370.ts
+#EXTINF:-1,USA_|_NDTV
+http://tv2iptv.com:8000/live/emad/123456/3371.ts
+#EXTINF:-1,USA_|_NBCSN_HD
+http://tv2iptv.com:8000/live/emad/123456/3372.ts
+#EXTINF:-1,USA_|_Nat_Geo_Wild
+http://tv2iptv.com:8000/live/emad/123456/3373.ts
+#EXTINF:-1,USA_|_Max_West
+http://tv2iptv.com:8000/live/emad/123456/3374.ts
+#EXTINF:-1,USA_|_Fox_Sports_2_HD
+http://tv2iptv.com:8000/live/emad/123456/3375.ts
+#EXTINF:-1,USA_|_Fox_Sports_1_HD
+http://tv2iptv.com:8000/live/emad/123456/3376.ts
+#EXTINF:-1,USA_ESPN
+http://tv2iptv.com:8000/live/emad/123456/3377.ts
+#EXTINF:-1,USA_|_A&E_HD
+http://tv2iptv.com:8000/live/emad/123456/3378.ts
+#EXTINF:-1,USA__TBS_HD
+http://tv2iptv.com:8000/live/emad/123456/3358.ts
+#EXTINF:-1,USA__ESPN_2
+http://tv2iptv.com:8000/live/emad/123456/3359.ts
+#EXTINF:-1,USA__BYU_Sports_TV_HD
+http://tv2iptv.com:8000/live/emad/123456/3360.ts
+#EXTINF:-1,USA_TNT_HD
+http://tv2iptv.com:8000/live/emad/123456/3379.ts
+#EXTINF:-1,USA_SYFY_HD
+http://tv2iptv.com:8000/live/emad/123456/3380.ts
+#EXTINF:-1,USA_NAT_GEO_HD
+http://tv2iptv.com:8000/live/emad/123456/3381.ts
+#EXTINF:-1,USA_FOX_NEWS_HD
+http://tv2iptv.com:8000/live/emad/123456/3382.ts
+#EXTINF:-1,USA_DISCCOVERY_HD
+http://tv2iptv.com:8000/live/emad/123456/3384.ts
+#EXTINF:-1,USA_CW_HD
+http://tv2iptv.com:8000/live/emad/123456/3385.ts
+#EXTINF:-1,USA_COMEDY_CENTRAL_HD
+http://tv2iptv.com:8000/live/emad/123456/3386.ts
+#EXTINF:-1,USA_CNN_HD
+http://tv2iptv.com:8000/live/emad/123456/3387.ts
+#EXTINF:-1,USA_CNBC_HD
+http://tv2iptv.com:8000/live/emad/123456/3388.ts
+#EXTINF:-1,USA_CBS
+http://tv2iptv.com:8000/live/emad/123456/3389.ts
+#EXTINF:-1,USA_CA_|_TSN_5
+http://tv2iptv.com:8000/live/emad/123456/3352.ts
+#EXTINF:-1,USA_CA_|_TSN_4
+http://tv2iptv.com:8000/live/emad/123456/3353.ts
+#EXTINF:-1,USA_CA_|_TSN_3
+http://tv2iptv.com:8000/live/emad/123456/3354.ts
+#EXTINF:-1,USA_CA_|_TSN_2
+http://tv2iptv.com:8000/live/emad/123456/3355.ts
+#EXTINF:-1,USA_CA_|_TSN_1
+http://tv2iptv.com:8000/live/emad/123456/3356.ts
+#EXTINF:-1,USA_CA_|_Sportsnet_360_HD
+http://tv2iptv.com:8000/live/emad/123456/3357.ts
+#EXTINF:-1,USA_CARTOON_NETWORK_HD_
+http://tv2iptv.com:8000/live/emad/123456/3390.ts
+#EXTINF:-1,USA_BRAVO_HD
+http://tv2iptv.com:8000/live/emad/123456/3391.ts
+#EXTINF:-1,USA_ANIMAL_PLANET_HD
+http://tv2iptv.com:8000/live/emad/123456/3392.ts
+#EXTINF:-1,USA_AMC_HD
+http://tv2iptv.com:8000/live/emad/123456/3393.ts
+#EXTINF:-1,USA_ABC_NEWS_HD
+http://tv2iptv.com:8000/live/emad/123456/3394.ts
+#EXTINF:-1,USA_ABC_HD
+http://tv2iptv.com:8000/live/emad/123456/3395.ts
